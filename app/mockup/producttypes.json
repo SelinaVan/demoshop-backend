@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "63701d74f0323986f300013e"
+  },
+  "name": "Streetwear",
+  "description": "Streetwear Style Karl Lagerfeld Fashion",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-02-24T03:52:32.127Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-07T09:31:11.631Z"
+  },
+  "deleted": false,
+  "deletedAt": {
+    "$date": "2023-04-07T09:31:11.630Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d74f03239b913000026"
+  },
+  "name": "Coat",
+  "description": "A coat is similar to a jacket",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-02-24T03:52:32.127Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-07T04:58:45.706Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d74f0323986f3000146"
+  },
+  "name": "Dress",
+  "description": "Mini is Trending",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-02-24T03:52:32.127Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-07T04:58:03.734Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d74f03239bef0000140"
+  },
+  "name": "TShirt",
+  "description": "A casual top usually make of coton",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-02-24T03:52:32.127Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-07T09:32:23.848Z"
+  },
+  "deleted": false
+},{
+  "_id": {
+    "$oid": "63701d74f03239b913000042"
+  },
+  "name": "Office",
+  "description": "Office fashion style",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-02-24T03:52:32.127Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-24T03:52:32.127Z"
+  }
+},{
+  "_id": {
+    "$oid": "64339f639204fcab41fc392b"
+  },
+  "name": "Jeans",
+  "description": "Jeans are a type of pants traditionally made from denim (a kind of cotton fabric",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-04-10T05:32:19.288Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-10T05:32:19.288Z"
+  },
+  "__v": 0
+}]

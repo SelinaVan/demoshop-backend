@@ -1,0 +1,106 @@
+[{
+  "_id": {
+    "$oid": "63701d74f03239b913330042"
+  },
+  "name": "woman",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-03-17T05:53:13.860Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-07T13:39:36.588Z"
+  },
+  "deleted": false
+},{
+  "_id": {
+    "$oid": "63701d74f03239b913440042"
+  },
+  "name": "man",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-03-17T05:53:13.860Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-17T05:53:13.860Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d74f03239b913550042"
+  },
+  "name": "accesories",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-03-17T05:53:13.860Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-07T08:17:35.276Z"
+  },
+  "deleted": false,
+  "deletedAt": {
+    "$date": "2023-04-07T08:17:35.269Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d74f03239b913660042"
+  },
+  "name": "kids",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-03-17T05:53:13.860Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-07T08:49:50.045Z"
+  },
+  "deleted": false,
+  "deletedAt": {
+    "$date": "2023-04-07T08:49:22.214Z"
+  }
+},{
+  "_id": {
+    "$oid": "64338de2101b468a4d2ebcc7"
+  },
+  "name": "watch",
+  "deleted": true,
+  "createdAt": {
+    "$date": "2023-04-10T04:17:38.066Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-10T05:36:31.844Z"
+  },
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2023-04-10T05:36:31.842Z"
+  }
+},{
+  "_id": {
+    "$oid": "643396ddc4d133a38713bbc4"
+  },
+  "name": "piyama",
+  "deleted": true,
+  "createdAt": {
+    "$date": "2023-04-10T04:55:57.570Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-10T04:56:02.100Z"
+  },
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2023-04-10T04:56:02.099Z"
+  }
+},{
+  "_id": {
+    "$oid": "6433a0774404d79dfb961948"
+  },
+  "name": "unisex",
+  "deleted": true,
+  "createdAt": {
+    "$date": "2023-04-10T05:36:55.757Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-10T05:36:59.064Z"
+  },
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2023-04-10T05:36:59.064Z"
+  }
+}]

@@ -1,0 +1,101 @@
+[{
+  "_id": {
+    "$oid": "641bd26de504c7d57c711aee"
+  },
+  "name": "next day delivery",
+  "price": 2.99,
+  "createdAt": {
+    "$date": "2023-03-23T04:15:41.637Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-07T12:45:19.336Z"
+  },
+  "__v": 0,
+  "day": 3,
+  "deleted": false,
+  "deletedAt": {
+    "$date": "2023-04-07T09:24:08.599Z"
+  }
+},{
+  "_id": {
+    "$oid": "641bd2eeeffdbfb3e8b3d689"
+  },
+  "name": "standard delivery",
+  "price": 1.99,
+  "createdAt": {
+    "$date": "2023-03-23T04:17:50.023Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-23T04:17:50.023Z"
+  },
+  "__v": 0,
+  "day": "7"
+},{
+  "_id": {
+    "$oid": "641bd3907848b141f3c65cc9"
+  },
+  "name": "personal pickup",
+  "price": 0,
+  "createdAt": {
+    "$date": "2023-03-23T04:20:32.616Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-23T04:20:32.616Z"
+  },
+  "__v": 0,
+  "day": "0"
+},{
+  "_id": {
+    "$oid": "64339bb09204fcab41fc38e4"
+  },
+  "name": "fast delivery",
+  "price": 3.99,
+  "day": 1,
+  "note": "",
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-04-10T05:16:32.410Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-10T05:16:32.410Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64339c5e9204fcab41fc38fa"
+  },
+  "name": "bcb",
+  "price": 1,
+  "day": 1,
+  "note": "..",
+  "deleted": true,
+  "createdAt": {
+    "$date": "2023-04-10T05:19:26.678Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-10T05:20:01.114Z"
+  },
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2023-04-10T05:20:01.113Z"
+  }
+},{
+  "_id": {
+    "$oid": "64339cda9204fcab41fc3906"
+  },
+  "name": "cbcb",
+  "price": 1,
+  "day": 1,
+  "note": "m,.m,.",
+  "deleted": true,
+  "createdAt": {
+    "$date": "2023-04-10T05:21:30.997Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-10T05:21:39.063Z"
+  },
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2023-04-10T05:21:39.062Z"
+  }
+}]

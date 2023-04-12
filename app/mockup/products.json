@@ -1,0 +1,1426 @@
+[{
+  "_id": {
+    "$oid": "63701d74f032396b8e00002f"
+  },
+  "name": "Middle Skirt",
+  "description": "The middle skirt with multi-color for summer holiday",
+  "type": {
+    "$oid": "63701d74f0323986f300013e"
+  },
+  "imageUrl": "https://i.pinimg.com/564x/0b/ca/ab/0bcaab38ae25ae35de7ff5a1f3901682.jpg",
+  "buyPrice": 400,
+  "promotionPrice": 350,
+  "amount": 10,
+  "color": [
+    {
+      "$oid": "63701d74f03239b913110042"
+    },
+    {
+      "$oid": "63701d74f03239b913180042"
+    }
+  ],
+  "category": [
+    {
+      "$oid": "63701d74f03239b913330042"
+    }
+  ],
+  "status": [
+    {
+      "$oid": "63701d74f03239b913880042"
+    },
+    {
+      "$oid": "63701d74f03239b913990042"
+    }
+  ],
+  "brand": {
+    "$oid": "63701d74f03239b914180042"
+  },
+  "reviews": [
+    {
+      "$oid": "63701d74f03239b915780042"
+    },
+    {
+      "$oid": "63701d74f03239b915580042"
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-03-17T05:53:13.857Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-03T12:03:13.730Z"
+  },
+  "deleted": false,
+  "deletedAt": {
+    "$date": "2023-04-03T03:26:41.529Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d74f03239bef000014a"
+  },
+  "name": "Trouser",
+  "description": "Lorem Ipsum is simply dummy text of the printing",
+  "type": {
+    "$oid": "63701d74f03239b913000026"
+  },
+  "imageUrl": "https://i.pinimg.com/564x/96/76/cb/9676cb1f0bbb909999a05f9e3baf505a.jpg",
+  "buyPrice": 600,
+  "promotionPrice": 500,
+  "amount": 10,
+  "color": [
+    {
+      "$oid": "63701d74f03239b913130042"
+    }
+  ],
+  "category": [
+    {
+      "$oid": "63701d74f03239b913330042"
+    }
+  ],
+  "status": [
+    {
+      "$oid": "63701d74f03239b913880042"
+    },
+    {
+      "$oid": "63701d74f03239b913990042"
+    }
+  ],
+  "brand": {
+    "$oid": "63701d74f03239b914290042"
+  },
+  "reviews": [
+    {
+      "$oid": "63701d74f03239b914680042"
+    },
+    {
+      "$oid": "63701d74f03239b914780042"
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-03-17T05:53:13.857Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-17T05:53:13.857Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d74f03239528f000042"
+  },
+  "name": "colorful blue",
+  "description": "Lorem Ipsum is simply dummy text of the printing",
+  "type": {
+    "$oid": "63701d74f0323986f3000146"
+  },
+  "imageUrl": "https://i.pinimg.com/564x/29/66/3f/29663f6d58c8635a8361d9ef6a1d0323.jpg",
+  "buyPrice": 350,
+  "promotionPrice": 250,
+  "amount": 10,
+  "color": [
+    {
+      "$oid": "63701d74f03239b913110042"
+    }
+  ],
+  "category": [
+    {
+      "$oid": "63701d74f03239b913330042"
+    }
+  ],
+  "status": [
+    {
+      "$oid": "63701d74f03239b913880042"
+    }
+  ],
+  "brand": {
+    "$oid": "63701d74f03239b914400042"
+  },
+  "reviews": [
+    {
+      "$oid": "63701d74f03239b915380042"
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-03-17T05:53:13.857Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-17T05:53:13.857Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d74f032390a3400034d"
+  },
+  "name": "Purple & brown",
+  "description": "Lorem Ipsum is simply dummy text of the printing",
+  "type": {
+    "$oid": "63701d74f03239bef0000140"
+  },
+  "imageUrl": "https://i.pinimg.com/564x/d3/cc/75/d3cc75800739ae1273e4a9ff509db93c.jpg",
+  "buyPrice": 700,
+  "promotionPrice": 650,
+  "amount": 0,
+  "color": [
+    {
+      "$oid": "63701d74f03239b913120042"
+    }
+  ],
+  "category": [
+    {
+      "$oid": "63701d74f03239b913330042"
+    }
+  ],
+  "status": [
+    {
+      "$oid": "63701d74f03239b914000042"
+    },
+    {
+      "$oid": "63701d74f03239b913990042"
+    }
+  ],
+  "brand": {
+    "$oid": "63701d74f03239b914300042"
+  },
+  "reviews": [
+    {
+      "$oid": "63701d74f03239b914680042"
+    },
+    {
+      "$oid": "63701d74f03239b915280042"
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-03-17T05:53:13.857Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T04:26:40.934Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d74f03239cdc5000029"
+  },
+  "name": "Pink Trousers",
+  "description": "Lorem Ipsum is simply dummy text of the printing",
+  "type": {
+    "$oid": "63701d74f03239b913000042"
+  },
+  "imageUrl": "https://i.pinimg.com/564x/b4/67/5a/b4675a36f221a2e6a5aae8c798482430.jpg",
+  "buyPrice": 500,
+  "promotionPrice": 450,
+  "amount": 0,
+  "color": [
+    {
+      "$oid": "63701d74f03239b913130042"
+    }
+  ],
+  "category": [
+    {
+      "$oid": "63701d74f03239b913330042"
+    }
+  ],
+  "status": [
+    {
+      "$oid": "63701d74f03239b970990042"
+    }
+  ],
+  "brand": {
+    "$oid": "63701d74f03239b914180042"
+  },
+  "reviews": [
+    {
+      "$oid": "63701d74f03239b914680042"
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-03-17T05:53:13.857Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T03:07:56.482Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d74f032398675000144"
+  },
+  "name": "Red Jacket",
+  "description": "Lorem Ipsum is simply dummy text of the printing",
+  "type": {
+    "$oid": "63701d74f0323986f300013e"
+  },
+  "imageUrl": "https://i.pinimg.com/564x/ba/e8/17/bae8174aa44ebcc5d5b1870df2d31854.jpg",
+  "buyPrice": 1000,
+  "promotionPrice": 950,
+  "amount": 10,
+  "color": [
+    {
+      "$oid": "63701d74f03239b913140042"
+    }
+  ],
+  "category": [
+    {
+      "$oid": "63701d74f03239b913330042"
+    }
+  ],
+  "status": [
+    {
+      "$oid": "63701d74f03239b913990042"
+    },
+    {
+      "$oid": "63701d74f03239b914000042"
+    }
+  ],
+  "brand": {
+    "$oid": "63701d74f03239b914400042"
+  },
+  "reviews": [
+    {
+      "$oid": "63701d74f03239b914680042"
+    },
+    {
+      "$oid": "63701d74f03239b914780042"
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-03-17T05:53:13.857Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-17T05:53:13.857Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d74f03239bef0000156"
+  },
+  "name": "Silk Scarf",
+  "description": "Lorem Ipsum is simply dummy text of the printing",
+  "type": {
+    "$oid": "63701d74f0323986f300013e"
+  },
+  "imageUrl": "https://i.pinimg.com/564x/89/43/2b/89432b1edf67725a907236878f5e2c6f.jpg",
+  "buyPrice": 500,
+  "promotionPrice": 450,
+  "amount": 0,
+  "color": [
+    {
+      "$oid": "63701d74f03239b913150042"
+    }
+  ],
+  "category": [
+    {
+      "$oid": "63701d74f03239b913330042"
+    }
+  ],
+  "status": [
+    {
+      "$oid": "63701d74f03239b914000042"
+    },
+    {
+      "$oid": "63701d74f03239b913990042"
+    }
+  ],
+  "brand": {
+    "$oid": "63701d74f03239b914180042"
+  },
+  "reviews": [
+    {
+      "$oid": "63701d74f03239b914680042"
+    },
+    {
+      "$oid": "63701d74f03239b914780042"
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-03-17T05:53:13.857Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T03:52:19.427Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d74f03239db69000138"
+  },
+  "name": "Jil Sander",
+  "description": "Lorem Ipsum is simply dummy text of the printing",
+  "type": {
+    "$oid": "63701d74f03239b913000026"
+  },
+  "imageUrl": "https://i.pinimg.com/564x/f4/17/d9/f417d911bb2fe015d11ce3a369181eef.jpg",
+  "buyPrice": 700,
+  "promotionPrice": 650,
+  "amount": 5,
+  "color": [
+    {
+      "$oid": "63701d74f03239b913170042"
+    }
+  ],
+  "category": [
+    {
+      "$oid": "63701d74f03239b913330042"
+    }
+  ],
+  "status": [
+    {
+      "$oid": "63701d74f03239b913990042"
+    }
+  ],
+  "brand": {
+    "$oid": "63701d74f03239b914400042"
+  },
+  "reviews": [
+    {
+      "$oid": "63701d74f03239b914680042"
+    },
+    {
+      "$oid": "63701d74f03239b914880042"
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-03-17T05:53:13.858Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-17T05:53:13.858Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d74f032399c00000148"
+  },
+  "name": "Mara Hoffman",
+  "description": "Lorem Ipsum is simply dummy text of the printing",
+  "type": {
+    "$oid": "63701d74f0323986f3000146"
+  },
+  "imageUrl": "https://i.pinimg.com/564x/a9/96/fa/a996faa6152e8d25baf3e343f376cad3.jpg",
+  "buyPrice": 700,
+  "promotionPrice": 650,
+  "amount": 10,
+  "color": [
+    {
+      "$oid": "63701d74f03239b913110042"
+    }
+  ],
+  "category": [
+    {
+      "$oid": "63701d74f03239b913330042"
+    }
+  ],
+  "status": [
+    {
+      "$oid": "63701d74f03239b913880042"
+    },
+    {
+      "$oid": "63701d74f03239b913990042"
+    }
+  ],
+  "brand": {
+    "$oid": "63701d74f03239b914500042"
+  },
+  "reviews": [
+    {
+      "$oid": "63701d74f03239b915780042"
+    },
+    {
+      "$oid": "63701d74f03239b915580042"
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-03-17T05:53:13.858Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-17T05:53:13.858Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d74f03239d59100034a"
+  },
+  "name": "Long Skirts",
+  "description": "Lorem Ipsum is simply dummy text of the printing",
+  "type": {
+    "$oid": "63701d74f03239bef0000140"
+  },
+  "imageUrl": "https://i.pinimg.com/564x/8a/39/a3/8a39a3ad3cccf3e1417bf9efe979cf09.jpg",
+  "buyPrice": 500,
+  "promotionPrice": 450,
+  "amount": 10,
+  "color": [
+    {
+      "$oid": "63701d74f03239b913180042"
+    }
+  ],
+  "category": [
+    {
+      "$oid": "63701d74f03239b913330042"
+    }
+  ],
+  "status": [
+    {
+      "$oid": "63701d74f03239b913880042"
+    },
+    {
+      "$oid": "63701d74f03239b913990042"
+    }
+  ],
+  "brand": {
+    "$oid": "63701d74f03239b914400042"
+  },
+  "reviews": [
+    {
+      "$oid": "63701d74f03239b914780042"
+    },
+    {
+      "$oid": "63701d74f03239b914880042"
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-03-17T05:53:13.858Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-17T05:53:13.858Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d74f032399c00000156"
+  },
+  "name": "Blazer de fato",
+  "description": "Lorem Ipsum is simply dummy text of the printing",
+  "type": {
+    "$oid": "63701d74f03239b913000042"
+  },
+  "imageUrl": "https://i.pinimg.com/564x/6a/ab/95/6aab9554e3785870640472b1da7e14b3.jpg",
+  "buyPrice": 600,
+  "promotionPrice": 550,
+  "amount": 10,
+  "color": [
+    {
+      "$oid": "63701d74f03239b913200042"
+    }
+  ],
+  "category": [
+    {
+      "$oid": "63701d74f03239b913330042"
+    }
+  ],
+  "status": [
+    {
+      "$oid": "63701d74f03239b914000042"
+    },
+    {
+      "$oid": "63701d74f03239b913990042"
+    }
+  ],
+  "brand": {
+    "$oid": "63701d74f03239b914290042"
+  },
+  "reviews": [
+    {
+      "$oid": "63701d74f03239b914680042"
+    },
+    {
+      "$oid": "63701d74f03239b914780042"
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-03-17T05:53:13.858Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-03T13:18:16.546Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d74f03239528f000021"
+  },
+  "name": "All White",
+  "description": "Lorem Ipsum is simply dummy text of the printing",
+  "type": {
+    "$oid": "63701d74f0323986f300013e"
+  },
+  "imageUrl": "https://i.pinimg.com/564x/2c/28/b2/2c28b2518d844af954616b57ae89eed1.jpg",
+  "buyPrice": 500,
+  "promotionPrice": 450,
+  "amount": 10,
+  "color": [
+    {
+      "$oid": "63701d74f03239b913160042"
+    }
+  ],
+  "category": [
+    {
+      "$oid": "63701d74f03239b913330042"
+    }
+  ],
+  "status": [
+    {
+      "$oid": "63701d74f03239b914000042"
+    },
+    {
+      "$oid": "63701d74f03239b913990042"
+    }
+  ],
+  "brand": {
+    "$oid": "63701d74f03239b914500042"
+  },
+  "reviews": [
+    {
+      "$oid": "63701d74f03239b914780042"
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-03-17T05:53:13.858Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-17T05:53:13.858Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d74f032390a34000344"
+  },
+  "name": "Black blazer",
+  "description": "Lorem Ipsum is simply dummy text of the printing",
+  "type": {
+    "$oid": "63701d74f03239b913000026"
+  },
+  "imageUrl": "https://i.pinimg.com/564x/ba/e8/17/bae8174aa44ebcc5d5b1870df2d31854.jpg",
+  "buyPrice": 700,
+  "promotionPrice": 650,
+  "amount": 10,
+  "color": [
+    {
+      "$oid": "63701d74f03239b913140042"
+    }
+  ],
+  "category": [
+    {
+      "$oid": "63701d74f03239b913330042"
+    }
+  ],
+  "status": [
+    {
+      "$oid": "63701d74f03239b913990042"
+    },
+    {
+      "$oid": "63701d74f03239b914000042"
+    }
+  ],
+  "brand": {
+    "$oid": "63701d74f03239b914300042"
+  },
+  "reviews": [
+    {
+      "$oid": "63701d74f03239b914680042"
+    },
+    {
+      "$oid": "63701d74f03239b914780042"
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-03-17T05:53:13.858Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-17T05:53:13.858Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d74f03239cdc5000023"
+  },
+  "name": "Linen-crop top",
+  "description": "Lorem Ipsum is simply dummy text of the printing",
+  "type": {
+    "$oid": "63701d74f0323986f3000146"
+  },
+  "imageUrl": "https://storage.googleapis.com/shop24h-7d406.appspot.com/images/engin-akyurt-jaZoffxg1yc-unsplash_3af774fb-ede1-4a3a-9d41-146420198d5c.jpeg?GoogleAccessId=firebase-adminsdk-rygp4%40shop24h-7d406.iam.gserviceaccount.com&Expires=1742144400&Signature=ltbaaMeK8zXGgiY5%2BLfw2GTM8WP5awOJNMrmK1Ksxc5z%2BxjlCvhA3oHRm3ZeSidoxJdRQD9ReFoPJZk2bb%2Fgah95owdusOWU0HrrZlFPS%2FfNgg1wWId38WGDvlIh4BM%2B0E9p4fwnBzD%2FnLEwtEdwPDC71k5TRgYR%2FdYaldRLmwE7GyZc6uYIg5TNcRPBpojNV%2FiUtJnXclzzyN9F5cyeWMYw%2BNUhG5%2F02c6hqaFYseCA2Z%2FOVu79oSJ65xB8%2BSfTV%2FYeTAbstD2ddVKhYiVwbVAETFHhQthm6sNA%2Fkv68hyr2Pzs1JRyhehgBQk%2FC%2FQXuh4RhQ26YGUI%2BkCxA7QuRg%3D%3D",
+  "buyPrice": 500,
+  "promotionPrice": 450,
+  "amount": 10,
+  "color": [
+    {
+      "$oid": "63701d74f03239b913180042"
+    },
+    {
+      "$oid": "63701d74f03239b913150042"
+    }
+  ],
+  "category": [
+    {
+      "$oid": "63701d74f03239b913330042"
+    }
+  ],
+  "status": [
+    {
+      "$oid": "63701d74f03239b913880042"
+    }
+  ],
+  "brand": {
+    "$oid": "63701d74f03239b914500042"
+  },
+  "reviews": [
+    {
+      "$oid": "63701d74f03239b914780042"
+    },
+    {
+      "$oid": "63701d74f03239b914880042"
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-03-17T05:53:13.858Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-06T11:54:28.778Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d74f03239d59100032f"
+  },
+  "name": "Linen dress",
+  "description": "Lorem Ipsum is simply dummy text of the printing",
+  "type": {
+    "$oid": "63701d74f03239b913000026"
+  },
+  "imageUrl": "https://i.pinimg.com/564x/28/dd/51/28dd510a95ec16961f44d135e68d8142.jpg",
+  "buyPrice": 500,
+  "promotionPrice": 450,
+  "amount": 10,
+  "color": [
+    {
+      "$oid": "63701d74f03239b913180042"
+    },
+    {
+      "$oid": "63701d74f03239b913130042"
+    }
+  ],
+  "category": [
+    {
+      "$oid": "63701d74f03239b913550042"
+    }
+  ],
+  "status": [
+    {
+      "$oid": "63701d74f03239b913990042"
+    }
+  ],
+  "brand": {
+    "$oid": "63701d74f03239b914300042"
+  },
+  "reviews": [
+    {
+      "$oid": "63701d74f03239b915780042"
+    },
+    {
+      "$oid": "63701d74f03239b915580042"
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-03-17T05:53:13.858Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-05T04:13:36.321Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d74f03239bef0000145"
+  },
+  "name": "Trench coat",
+  "description": "Lorem Ipsum is simply dummy text of the printing",
+  "type": {
+    "$oid": "63701d74f03239b913000042"
+  },
+  "imageUrl": "https://i.pinimg.com/564x/58/34/6b/58346b7f5eaafc9405b3a5403103f71f.jpg",
+  "buyPrice": 500,
+  "promotionPrice": 450,
+  "amount": 10,
+  "color": [
+    {
+      "$oid": "63701d74f03239b913110042"
+    }
+  ],
+  "category": [
+    {
+      "$oid": "63701d74f03239b913330042"
+    }
+  ],
+  "status": [
+    {
+      "$oid": "63701d74f03239b913880042"
+    },
+    {
+      "$oid": "63701d74f03239b913990042"
+    }
+  ],
+  "brand": {
+    "$oid": "63701d74f03239b914500042"
+  },
+  "reviews": [
+    {
+      "$oid": "63701d74f03239b915780042"
+    },
+    {
+      "$oid": "63701d74f03239b915580042"
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-03-17T05:53:13.858Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-17T05:53:13.858Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d74f032390a34000357"
+  },
+  "name": "Long blazer",
+  "description": "Lorem Ipsum is simply dummy text of the printing",
+  "type": {
+    "$oid": "63701d74f0323986f300013e"
+  },
+  "imageUrl": "https://i.pinimg.com/564x/26/bc/3a/26bc3a5f78a965ffef7fd8d216418cf3.jpg",
+  "buyPrice": 500,
+  "promotionPrice": 450,
+  "amount": 0,
+  "color": [
+    {
+      "$oid": "63701d74f03239b913200042"
+    }
+  ],
+  "category": [
+    {
+      "$oid": "63701d74f03239b913330042"
+    }
+  ],
+  "status": [
+    {
+      "$oid": "63701d74f03239b970990042"
+    }
+  ],
+  "brand": {
+    "$oid": "63701d74f03239b914500042"
+  },
+  "reviews": [
+    {
+      "$oid": "63701d74f03239b914780042"
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-03-17T05:53:13.858Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T03:05:48.607Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d74f03239d59100034b"
+  },
+  "name": "Khaite",
+  "description": "Lorem Ipsum is simply dummy text of the printing",
+  "type": {
+    "$oid": "63701d74f03239b913000026"
+  },
+  "imageUrl": "https://i.pinimg.com/564x/f3/d0/c6/f3d0c6884b86d8bcf748b3953437d028.jpg",
+  "buyPrice": 500,
+  "promotionPrice": 450,
+  "amount": 10,
+  "color": [
+    {
+      "$oid": "63701d74f03239b913110042"
+    }
+  ],
+  "category": [
+    {
+      "$oid": "63701d74f03239b913330042"
+    }
+  ],
+  "status": [
+    {
+      "$oid": "63701d74f03239b914000042"
+    },
+    {
+      "$oid": "63701d74f03239b913990042"
+    }
+  ],
+  "brand": {
+    "$oid": "63701d74f03239b914500042"
+  },
+  "reviews": [
+    {
+      "$oid": "63701d74f03239b914780042"
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-03-17T05:53:13.858Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-17T05:53:13.858Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d74f03239b7f7000042"
+  },
+  "name": "Apiece",
+  "description": "Lorem Ipsum is simply dummy text of the printing",
+  "type": {
+    "$oid": "63701d74f0323986f3000146"
+  },
+  "imageUrl": "https://i.pinimg.com/564x/ad/a6/c2/ada6c2b9e220a1cf5dfff4a936b348af.jpg",
+  "buyPrice": 500,
+  "promotionPrice": 450,
+  "amount": 18,
+  "color": [
+    {
+      "$oid": "63701d74f03239b913120042"
+    }
+  ],
+  "category": [
+    {
+      "$oid": "63701d74f03239b913330042"
+    }
+  ],
+  "status": [
+    {
+      "$oid": "63701d74f03239b970990042"
+    }
+  ],
+  "brand": {
+    "$oid": "63701d74f03239b914500042"
+  },
+  "reviews": [
+    {
+      "$oid": "63701d74f03239b914880042"
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-03-17T05:53:13.858Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T04:27:17.066Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d74f03239d40b000066"
+  },
+  "name": "Burverry",
+  "description": "Lorem Ipsum is simply dummy text of the printing",
+  "type": {
+    "$oid": "63701d74f03239bef0000140"
+  },
+  "imageUrl": "https://i.pinimg.com/564x/e3/63/aa/e363aa0f077c880a967e6055f7731246.jpg",
+  "buyPrice": 500,
+  "promotionPrice": 450,
+  "amount": 10,
+  "color": [
+    {
+      "$oid": "63701d74f03239b913200042"
+    }
+  ],
+  "category": [
+    {
+      "$oid": "63701d74f03239b913330042"
+    }
+  ],
+  "status": [
+    {
+      "$oid": "63701d74f03239b914000042"
+    },
+    {
+      "$oid": "63701d74f03239b913990042"
+    }
+  ],
+  "brand": {
+    "$oid": "63701d74f03239b914500042"
+  },
+  "reviews": [
+    {
+      "$oid": "63701d74f03239b914780042"
+    },
+    {
+      "$oid": "63701d74f03239b914680042"
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-03-17T05:53:13.858Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-17T05:53:13.858Z"
+  }
+},{
+  "_id": {
+    "$oid": "641e9cdfb1dc911b8734374c"
+  },
+  "name": "long skirt",
+  "description": "Lorem Ipsum is simply dummy text of the printing",
+  "type": {
+    "$oid": "63701d74f0323986f300013e"
+  },
+  "imageUrl": "https://i.pinimg.com/564x/0b/ca/ab/0bcaab38ae25ae35de7ff5a1f3901682.jpg",
+  "buyPrice": 400,
+  "promotionPrice": 200,
+  "amount": 10,
+  "color": [
+    {
+      "$oid": "63701d74f03239b913110042"
+    }
+  ],
+  "category": [
+    {
+      "$oid": "63701d74f03239b913330042"
+    }
+  ],
+  "status": [
+    {
+      "$oid": "63701d74f03239b913880042"
+    },
+    {
+      "$oid": "63701d74f03239b913990042"
+    }
+  ],
+  "brand": {
+    "$oid": "63701d74f03239b914500042"
+  },
+  "reviews": [
+    {
+      "$oid": "63701d74f03239b915780042"
+    },
+    {
+      "$oid": "63701d74f03239b915580042"
+    }
+  ],
+  "deleted": true,
+  "createdAt": {
+    "$date": "2023-03-25T07:03:59.452Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-25T07:55:03.362Z"
+  },
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2023-03-25T07:55:03.361Z"
+  }
+},{
+  "_id": {
+    "$oid": "642ba836921277aef3aba6c8"
+  },
+  "name": "White T-shirt",
+  "description": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+  "type": {
+    "$oid": "63701d74f0323986f300013e"
+  },
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/shop24h-2a5f2.appspot.com/o/images%2Fchristian-bolt-VW5VjskNXZ8-unsplash.jpeg30a6ef82-1f22-40d1-8f89-621e60110416?alt=media&token=56955aac-d872-4312-8beb-eb96ea2e4734",
+  "buyPrice": 148,
+  "promotionPrice": 120,
+  "amount": 100,
+  "color": [
+    {
+      "$oid": "63701d74f03239b913160042"
+    }
+  ],
+  "category": [
+    {
+      "$oid": "63701d74f03239b913330042"
+    }
+  ],
+  "status": [
+    {
+      "$oid": "63701d74f03239b914000042"
+    },
+    {
+      "$oid": "63701d74f03239b913990042"
+    }
+  ],
+  "brand": {
+    "$oid": "63701d74f03239b914400042"
+  },
+  "reviews": [],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-04-04T04:31:50.885Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-04T12:04:54.404Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642ba8e2921277aef3aba700"
+  },
+  "name": "White T-Shirt",
+  "description": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit,",
+  "type": {
+    "$oid": "63701d74f0323986f300013e"
+  },
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/shop24h-2a5f2.appspot.com/o/images%2Fflorencia-simonini-PDZAMYvduVk-unsplash.jpegd273e6b0-c5ad-419f-a535-e9d085ab26d6?alt=media&token=1b18700e-ef51-494b-8c28-2d6b0f4b26af",
+  "buyPrice": 200,
+  "promotionPrice": 180,
+  "amount": 50,
+  "color": [
+    {
+      "$oid": "63701d74f03239b913160042"
+    }
+  ],
+  "category": [
+    {
+      "$oid": "63701d74f03239b913440042"
+    }
+  ],
+  "status": [
+    {
+      "$oid": "63701d74f03239b914000042"
+    },
+    {
+      "$oid": "63701d74f03239b913990042"
+    }
+  ],
+  "brand": {
+    "$oid": "63701d74f03239b914400042"
+  },
+  "reviews": [],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-04-04T04:34:42.039Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-04T05:51:39.341Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642baa679948dd5d3136b920"
+  },
+  "name": "Black T-Shirt",
+  "description": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit\"Lorem ipsum dolor sit amet, \"Lorem ipsum dolor sit amet, consectetur adipiscing elit\"Lorem ipsum dolor sit amet, \"Lorem ipsum dolor sit amet, consectetur adipiscing elit\"Lorem ipsum dolor sit amet, \"Lorem ipsum dolor sit amet, consectetur adipiscing elit\"Lorem ipsum dolor sit amet, \"Lorem ipsum dolor sit amet, consectetur adipiscing elit\"Lorem ipsum dolor sit amet, ",
+  "type": {
+    "$oid": "63701d74f0323986f300013e"
+  },
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/shop24h-2a5f2.appspot.com/o/images%2Fuji-kanggo-gumilang-sMn0sxR8v2E-unsplash.jpeg749794e8-37b8-40c5-b2bd-a856cf27e774?alt=media&token=8b687d7f-cbf7-490b-8c2f-815fd6ac0819",
+  "buyPrice": 150,
+  "promotionPrice": 130,
+  "amount": 100,
+  "color": [
+    {
+      "$oid": "63701d74f03239b913140042"
+    }
+  ],
+  "category": [
+    {
+      "$oid": "63701d74f03239b913330042"
+    }
+  ],
+  "status": [
+    {
+      "$oid": "63701d74f03239b914000042"
+    }
+  ],
+  "brand": {
+    "$oid": "63701d74f03239b914400042"
+  },
+  "reviews": [],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-04-04T04:41:11.171Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-05T02:01:26.742Z"
+  },
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2023-04-05T02:01:26.742Z"
+  }
+},{
+  "_id": {
+    "$oid": "642baaad9948dd5d3136b92f"
+  },
+  "name": "Flower shirt",
+  "description": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"",
+  "type": {
+    "$oid": "63701d74f0323986f300013e"
+  },
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/shop24h-2a5f2.appspot.com/o/images%2Fmohamad-javad-barakouhi-rJvs1om1G0o-unsplash.jpegc27ea2e3-05ba-4deb-9620-6f4f94208c0d?alt=media&token=a64ec25d-5ab0-443f-878e-a2c88871d66f",
+  "buyPrice": 150,
+  "promotionPrice": 130,
+  "amount": 0,
+  "color": [
+    {
+      "$oid": "63701d74f03239b913110042"
+    },
+    {
+      "$oid": "63701d74f03239b913140042"
+    }
+  ],
+  "category": [
+    {
+      "$oid": "63701d74f03239b913330042"
+    }
+  ],
+  "status": [
+    {
+      "$oid": "63701d74f03239b913990042"
+    },
+    {
+      "$oid": "63701d74f03239b970990042"
+    }
+  ],
+  "brand": {
+    "$oid": "63701d74f03239b914500042"
+  },
+  "reviews": [],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-04-04T04:42:21.389Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T03:11:12.869Z"
+  },
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2023-04-04T04:42:42.413Z"
+  }
+},{
+  "_id": {
+    "$oid": "642d7950d9ddb57507852097"
+  },
+  "name": "Out Cast",
+  "description": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit\"Lorem ipsum dolor sit amet, \"Lorem ipsum dolor sit amet, consectetur adipiscing elit\"Lorem ipsum dolor sit amet, \"Lorem ipsum dolor sit amet, consectetur adipiscing elit\"Lorem ipsum dolor sit amet, ",
+  "type": {
+    "$oid": "63701d74f0323986f300013e"
+  },
+  "imageUrl": "https://firebasestorage.googleapis.com/v0/b/shop24h-2a5f2.appspot.com/o/images%2Ftaylor-dG4Eb_oC5iM-unsplash.jpega80e9c4f-01f5-4e4e-a7d7-7d380329dca5?alt=media&token=94feb8ac-6a1f-4280-a8e2-786cf0aa9ed6",
+  "buyPrice": 150,
+  "promotionPrice": 130,
+  "amount": 100,
+  "color": [
+    {
+      "$oid": "63701d74f03239b913160042"
+    }
+  ],
+  "category": [
+    {
+      "$oid": "63701d74f03239b913440042"
+    }
+  ],
+  "status": [
+    {
+      "$oid": "63701d74f03239b914000042"
+    }
+  ],
+  "brand": {
+    "$oid": "63701d74f03239b914400042"
+  },
+  "reviews": [],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-04-05T13:36:16.363Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-05T13:36:25.855Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642e54cb9e16235a164b13d3"
+  },
+  "name": "Sweater",
+  "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anyt",
+  "type": {
+    "$oid": "63701d74f0323986f300013e"
+  },
+  "imageUrl": "https://storage.googleapis.com/shop24h-7d406.appspot.com/images/68e162c1-d58f-4bbc-bd4f-20ec66c67694.jpeg?GoogleAccessId=firebase-adminsdk-rygp4%40shop24h-7d406.iam.gserviceaccount.com&Expires=1742144400&Signature=IS1oFG9iwH7ECAJ8qWxobFjMuHlfPIOkynbarSaKPH9m9ax55RRB2noYj6Yp2J%2BRm4OAz2MwKpsHbVhGDAVS4sGEuu2qJhuSSE1xDuZVzdsunMQR2g7GHpwOhOOvN3hYLatEQ2%2FWEdHA9xbwaKod0d7EQtKKruPKh4bUcyQOlsKGy0HIE6tQNy0gN4LBwUyJJGpO5NWftEC9Bj12el30i2xzN2v%2FEukVDfCgYxobfU1ah8EHSgoJcNQIzWwJ80soXqQQ7%2B4c6V6QDtjqzs%2BXd5z7DnwUe6wz%2BdXo0m8dBKPOsgI74sBdIfQ6CkTwGDimDQpBFWvjozWm0xu40H4FcA%3D%3D",
+  "buyPrice": 198,
+  "promotionPrice": 180,
+  "amount": 20,
+  "color": [
+    {
+      "$oid": "63701d74f03239b913110042"
+    }
+  ],
+  "category": [
+    {
+      "$oid": "63701d74f03239b913330042"
+    }
+  ],
+  "status": [
+    {
+      "$oid": "63701d74f03239b914000042"
+    }
+  ],
+  "brand": {
+    "$oid": "63701d74f03239b914300042"
+  },
+  "reviews": [],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-04-06T05:12:43.522Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-06T05:12:43.522Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642eb0548b316b313eed18e7"
+  },
+  "name": "White skirt",
+  "description": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"",
+  "type": {
+    "$oid": "63701d74f0323986f3000146"
+  },
+  "imageUrl": "https://storage.googleapis.com/shop24h-7d406.appspot.com/images/raoul-croes-q3NX2NbbYmI-unsplash_d18cccc4-a89b-4e14-8e5b-8b96ce1dbfb1.jpeg?GoogleAccessId=firebase-adminsdk-rygp4%40shop24h-7d406.iam.gserviceaccount.com&Expires=1742144400&Signature=EV7Wj87r%2FfFSFl2JurbLkQUrEZMDdMzb9hKMWvSH54K8XzZgnkRWWhwvIHNKF9T9mhYbTeEuQp4oPF0nqZQHdwU498UTX3ax5lDPBXxdpFCDwTaY9J05KKAkCRSSAjrB8f3KzIKqcr1iNbE%2FjxJUoT4iFS8hWBwhi0MP9%2FVGY%2FosHILuvp1YURK947sUG4f6%2FeeIDQ44GaKTsXBcOQ5kgil5ZPlt049KgGjGDuYogv%2F4WC4%2BMxEqtVaf5367WJ0j1uGoxo3EwWABm8Bk8lkrDIUUv%2BnqOJHC7NPJESCJ6n%2ButbWQarbXkLKswgcc450tYbbPO1fOrrfbKVCjWu3lOg%3D%3D",
+  "buyPrice": 300,
+  "promotionPrice": 280,
+  "amount": 29,
+  "color": [
+    {
+      "$oid": "63701d74f03239b913150042"
+    }
+  ],
+  "category": [
+    {
+      "$oid": "63701d74f03239b913330042"
+    }
+  ],
+  "status": [
+    {
+      "$oid": "63701d74f03239b914000042"
+    }
+  ],
+  "brand": {
+    "$oid": "63701d74f03239b914500042"
+  },
+  "reviews": [],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-04-06T11:43:16.732Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T04:26:40.937Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64301bee093fa001bcdacb91"
+  },
+  "name": "Black TShirt",
+  "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't an",
+  "type": {
+    "$oid": "63701d74f03239bef0000140"
+  },
+  "imageUrl": "https://storage.googleapis.com/shop24h-7d406.appspot.com/images/kevin-gil-musngi-eCikWiyY6IY-unsplash_5bc04b08-cece-4f24-be2f-75c4c655fab1.jpeg?GoogleAccessId=firebase-adminsdk-rygp4%40shop24h-7d406.iam.gserviceaccount.com&Expires=1742144400&Signature=Olgdag0q%2FmETOepgvQ%2Be5w6qjEHyHC6VMEtk24fKPTY%2BQ7IJG%2F5mopjxBwkvePJ3KRw%2B1sU%2FewJDOaK4PEoUxoaAC48dHtwLNKPb2EGRLPoxtzmkJBU3OaDVzDSqvnBT6PCQYzgHy71m6AcFzFyh09zkXT6VRBaipdpI6m8T%2FLXqu6W%2BYtSqhbt6JAwc2BDXYtseCQH2368G1FKFDitMOehhU71O61jCZoDfTDwg2xKvSdnH0aZW2nLaGIKgPZAlnbEW3bP2NAzFYtOkMv%2Bhindc3eobAjCwA%2F938iHat68wY55yVQiB8RNX4PIrSN%2FtY2A9prrjDSsl41oVvw3JPA%3D%3D",
+  "buyPrice": 200,
+  "promotionPrice": 180,
+  "amount": 19,
+  "color": [
+    {
+      "$oid": "63701d74f03239b913140042"
+    }
+  ],
+  "category": [
+    {
+      "$oid": "63701d74f03239b913330042"
+    }
+  ],
+  "status": [
+    {
+      "$oid": "63701d74f03239b914000042"
+    }
+  ],
+  "brand": {
+    "$oid": "63701d74f03239b914400042"
+  },
+  "reviews": [],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-04-07T13:34:38.135Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T03:46:11.902Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6433c0004404d79dfb961a10"
+  },
+  "name": "Long Dress",
+  "description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available. It is also used",
+  "type": {
+    "$oid": "63701d74f0323986f3000146"
+  },
+  "imageUrl": "https://storage.googleapis.com/shop24h-7d406.appspot.com/images/product-12_73888ed6-374a-44d2-b04d-aa9d78d9063a.jpeg?GoogleAccessId=firebase-adminsdk-rygp4%40shop24h-7d406.iam.gserviceaccount.com&Expires=1742144400&Signature=dF6IcPmc%2FfuhWOCGF4OdHb7fKmSr%2Fx%2Fx6PKAg7RDBQUp9h5OscYDzgONcNJylOB2OuRPaLXOi7s%2FInoIHZWCMKSG0Q6iYTLohuzV2qlXRRTq3ndjWKK%2Bv%2FOqqAfGTrz24X2GLP9agH9NtDNkoN8VVKKHMVt8HZNVji9nkjjhuugSud3OZbxvt1lsuRajqG2MkZTOyPAtiCgcwFKTPuuW4TwXed%2BFrfI8GJ3lsDETnQhjY68oGqBbHLV8y7KgSLU%2B5jgzeLiOYIfNyBEuWm1CbvYwtJe6t7vlj6uWr%2FBVcRFhj1iKkR64otxNu7FLT%2FQeDv31IOo6tAWGFfqP3Ezmcw%3D%3D",
+  "buyPrice": 250,
+  "promotionPrice": 230,
+  "amount": 95,
+  "color": [
+    {
+      "$oid": "63701d74f03239b913160042"
+    }
+  ],
+  "category": [
+    {
+      "$oid": "63701d74f03239b913330042"
+    }
+  ],
+  "status": [
+    {
+      "$oid": "64339468c4d133a38713bba0"
+    }
+  ],
+  "brand": {
+    "$oid": "63701d74f03239b914300042"
+  },
+  "reviews": [],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-04-10T07:51:28.137Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T03:46:11.909Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64356eb6bd5391da1e66e97d"
+  },
+  "name": "Black vest",
+  "description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. ",
+  "type": {
+    "$oid": "63701d74f03239b913000042"
+  },
+  "imageUrl": "https://storage.googleapis.com/shop24h-7d406.appspot.com/images/product-11_010ea540-6539-46f0-8962-a757494c45a8.jpeg?GoogleAccessId=firebase-adminsdk-rygp4%40shop24h-7d406.iam.gserviceaccount.com&Expires=1742144400&Signature=MU7WyruoaePGgnL5wuvWihLXlG0An2L7upke00XHelvcI1cqHSvFmnA2Z5iLlk9CvK4bjCIHwZJn61y9s3QQPFXVEngSq1Dby%2FhvaUvZbjFsYZoCQ8TNG3NHRgseOd595awqBPNbbDGKz%2BugYLs7gAZdE1yUnTN0WuQIeQB7QGiajdlxRLi%2BOzRF9S9uqUMHjQbOnj6TWsnwyHOzIMcAZ60aVzx29PiDHgYcJCcYaS22zRaXNrvbr%2B0PEVybhodb1XP9zi0BH5zqhhlib68dRw5lYDU8XkkVeBQyy%2F8PUcb2czC7cp29saJdtgv5WDbFIxbgmkpB%2FqKEhuZ35DThNg%3D%3D",
+  "buyPrice": 600,
+  "promotionPrice": 550,
+  "amount": 24,
+  "color": [
+    {
+      "$oid": "63701d74f03239b913140042"
+    }
+  ],
+  "category": [
+    {
+      "$oid": "63701d74f03239b913330042"
+    }
+  ],
+  "status": [
+    {
+      "$oid": "63701d74f03239b914000042"
+    }
+  ],
+  "brand": {
+    "$oid": "63701d74f03239b914500042"
+  },
+  "reviews": [],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-04-11T14:29:10.105Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T14:30:22.520Z"
+  },
+  "__v": 0
+}]

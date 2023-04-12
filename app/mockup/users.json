@@ -1,0 +1,255 @@
+[{
+  "_id": {
+    "$oid": "6433ffe45c2b49fd493d461c"
+  },
+  "username": "van ngoc phuong",
+  "email": "vnphuong2512@gmail.com",
+  "phone": "0909489406",
+  "birthday": {
+    "$date": "1992-12-24T17:00:00.000Z"
+  },
+  "address": "xuan hoa",
+  "city": "dong nai",
+  "country": "vn",
+  "password": "$2b$10$OFlxE6TVnEqHaOMh93ygp.Rg3R/Zo7ZaTo71qynGXVXzHBMGxj80W",
+  "roles": [
+    "admin",
+    "super admin"
+  ],
+  "deleted": false,
+  "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDMzZmZlNDVjMmI0OWZkNDkzZDQ2MWMiLCJyb2xlcyI6WyJhZG1pbiIsInN1cGVyIGFkbWluIl0sImlhdCI6MTY4MTIyMDk5MiwiZXhwIjoxNjgxMzA3MzkyfQ.EH9NWwaBIdZoMRJitG3ClzapwMNsYI-Itn8VO6oyDq8",
+  "createdAt": {
+    "$date": "2023-04-10T12:24:04.405Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T13:49:52.402Z"
+  },
+  "__v": 0,
+  "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDMzZmZlNDVjMmI0OWZkNDkzZDQ2MWMiLCJpYXQiOjE2ODEyMjA5OTIsImV4cCI6MTY4MTgyNTc5Mn0.Dc7PumUclS15wdM2VB6ULc8oD65yvdkyl0VOHQBe8CM",
+  "confirmation": "confirm"
+},{
+  "_id": {
+    "$oid": "643512cd37257ff150d2435e"
+  },
+  "username": "ho cam tien",
+  "email": "camtien@gmail.com",
+  "phone": "12345264241242",
+  "birthday": {
+    "$date": "2023-04-05T00:00:00.000Z"
+  },
+  "address": "sdfsdf",
+  "city": "aichbach",
+  "country": "at",
+  "password": "$2b$10$7P/gWGMz.FYtqqWm6PnZFefpVmKWwfYoBZpHqhJq.eqTUw4Sb1dgK",
+  "roles": [
+    "user"
+  ],
+  "deleted": false,
+  "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDM1MTJjZDM3MjU3ZmYxNTBkMjQzNWUiLCJyb2xlcyI6WyJ1c2VyIiwiYWRtaW4iXSwiaWF0IjoxNjgxMTk5ODIxLCJleHAiOjE2ODEyODYyMjF9.Ez7qPxXnv2wF9BWa3ZF-W6XTmr0G9mfSub9cR6u3Yrg",
+  "createdAt": {
+    "$date": "2023-04-11T07:57:01.205Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T14:20:30.158Z"
+  },
+  "__v": 0,
+  "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDM1MTJjZDM3MjU3ZmYxNTBkMjQzNWUiLCJpYXQiOjE2ODExOTk4MjEsImV4cCI6MTY4MTgwNDYyMX0.jL9tQ9oeXVwsQeayhHsAO0WzN7Txs5VXYrNrAnCx-68",
+  "confirmation": "cancel"
+},{
+  "_id": {
+    "$oid": "6435136d37257ff150d24372"
+  },
+  "username": "luong thi bich thuy",
+  "email": "bichthuy@gmail.com",
+  "phone": "0123456982",
+  "birthday": {
+    "$date": "2023-03-30T00:00:00.000Z"
+  },
+  "address": "dsfdf",
+  "city": "khirdalan",
+  "country": "az",
+  "password": "$2b$10$aIko0UrYJxRchtwEFrcUO.8m1FZIwvQg41dOnUTLGBI8UnHTVcGVG",
+  "roles": [
+    "user"
+  ],
+  "deleted": true,
+  "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDM1MTM2ZDM3MjU3ZmYxNTBkMjQzNzIiLCJyb2xlcyI6WyJ1c2VyIl0sImlhdCI6MTY4MTE5OTk4MSwiZXhwIjoxNjgxMjg2MzgxfQ.0piE9f7qF5zm-mMq8Vi3Gv8j-at3Nmbe87U8TVyNeeA",
+  "createdAt": {
+    "$date": "2023-04-11T07:59:41.719Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T09:12:00.161Z"
+  },
+  "__v": 0,
+  "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDM1MTM2ZDM3MjU3ZmYxNTBkMjQzNzIiLCJpYXQiOjE2ODExOTk5ODEsImV4cCI6MTY4MTgwNDc4MX0.nIPpiCdgeKVZFx1lAqeO_FZIS0bSZ5IMblkL1UhI9YM",
+  "deletedAt": {
+    "$date": "2023-04-11T09:12:00.161Z"
+  }
+},{
+  "_id": {
+    "$oid": "643513bb37257ff150d2437d"
+  },
+  "username": "hoang kim thao",
+  "email": "thaohoang@gmail.com",
+  "phone": "456456456456",
+  "birthday": {
+    "$date": "2023-04-12T00:00:00.000Z"
+  },
+  "address": "fghfgh",
+  "city": "ceyranbatan",
+  "country": "az",
+  "password": "$2b$10$sH7rEe3YrBLclvqYDvPnReckC.QbYy8bWkZdwquqZN5M84kzesXRy",
+  "roles": [
+    "user"
+  ],
+  "deleted": false,
+  "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDM1MTNiYjM3MjU3ZmYxNTBkMjQzN2QiLCJyb2xlcyI6WyJ1c2VyIl0sImlhdCI6MTY4MTIwMDA1OSwiZXhwIjoxNjgxMjg2NDU5fQ.GZyQzpvFSzH5jPf0XwGCdPRYvDjt4YnwHQuAZaDGy3g",
+  "createdAt": {
+    "$date": "2023-04-11T08:00:59.245Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T09:33:52.014Z"
+  },
+  "__v": 0,
+  "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDM1MTNiYjM3MjU3ZmYxNTBkMjQzN2QiLCJpYXQiOjE2ODEyMDAwNTksImV4cCI6MTY4MTgwNDg1OX0.bHWf45RC4CcHO0gF4fW2iJVFWYaL6xmX7_Rc8LmDszw",
+  "confirmation": "confirm"
+},{
+  "_id": {
+    "$oid": "6435148464db91246dc760ef"
+  },
+  "username": "ho van cuong",
+  "email": "vancuong@gmail.com",
+  "phone": "45645645645",
+  "birthday": {
+    "$date": "2023-04-12T00:00:00.000Z"
+  },
+  "address": "fghfgh",
+  "city": "ceyranbatan",
+  "country": "az",
+  "password": "$2b$10$n8yGvoKsh3vdIwnBjZvfDetHZjw8YgvGWzD4Houe9X1ckb.vi1G2y",
+  "roles": [
+    "user"
+  ],
+  "deleted": true,
+  "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDM1MTQ4NDY0ZGI5MTI0NmRjNzYwZWYiLCJyb2xlcyI6WyJ1c2VyIl0sImlhdCI6MTY4MTIwMDI2MCwiZXhwIjoxNjgxMjg2NjYwfQ.jcT4Ddww2k-k8VkJOhfj6_r3UHda84ibkD1bTTsIe2k",
+  "createdAt": {
+    "$date": "2023-04-11T08:04:20.701Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T09:10:02.324Z"
+  },
+  "__v": 0,
+  "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDM1MTQ4NDY0ZGI5MTI0NmRjNzYwZWYiLCJpYXQiOjE2ODEyMDAyNjAsImV4cCI6MTY4MTgwNTA2MH0.fa5hKwu9McjWiihlTIiM6-XtlyOH7Um8U0iuYgU_Ncg",
+  "deletedAt": {
+    "$date": "2023-04-11T09:10:02.323Z"
+  }
+},{
+  "_id": {
+    "$oid": "6435181c64db91246dc7611c"
+  },
+  "username": "tran thi my ly",
+  "email": "myly@gmail.com",
+  "phone": "012365495",
+  "birthday": {
+    "$date": "2023-04-20T00:00:00.000Z"
+  },
+  "address": "dgdgf",
+  "city": "miquelon-langlade",
+  "country": "pm",
+  "password": "$2b$10$UIqwVMzL.Xn2bYCMFY1mm.Yo1PMlAmo/WuupeuFfUqvWu7oFdmgpa",
+  "roles": [
+    "user"
+  ],
+  "deleted": true,
+  "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDM1MTgxYzY0ZGI5MTI0NmRjNzYxMWMiLCJyb2xlcyI6WyJ1c2VyIl0sImlhdCI6MTY4MTIwMTE4MCwiZXhwIjoxNjgxMjg3NTgwfQ.zTqMt5Siv0SB1p5j_tSdUn4OWX9L-3shzcvp4ArzVNA",
+  "createdAt": {
+    "$date": "2023-04-11T08:19:40.174Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T09:00:34.246Z"
+  },
+  "__v": 0,
+  "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDM1MTgxYzY0ZGI5MTI0NmRjNzYxMWMiLCJpYXQiOjE2ODEyMDExODAsImV4cCI6MTY4MTgwNTk4MH0.PNgssfvStqTRmYR-KgV6GMLcwtfj7y-vKwSZXC1xP1c",
+  "deletedAt": {
+    "$date": "2023-04-11T09:00:34.245Z"
+  }
+},{
+  "_id": {
+    "$oid": "643530c9d222d33690053550"
+  },
+  "username": "Nguyen thi thuy phuong",
+  "email": "thuyphuong@gmail.com",
+  "phone": "0909489455",
+  "birthday": {
+    "$date": "1992-12-23T00:00:00.000Z"
+  },
+  "address": "xuan hung",
+  "city": "dong nai",
+  "country": "vn",
+  "password": "$2b$10$NPQ02aXD6FFhfeR4GWCFaOnN39avcayrFItZnsSMaXl6Qjn2HJNjy",
+  "roles": [
+    "user"
+  ],
+  "confirmation": "confirm",
+  "deleted": false,
+  "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDM1MzBjOWQyMjJkMzM2OTAwNTM1NTAiLCJyb2xlcyI6WyJ1c2VyIl0sImlhdCI6MTY4MTIwNzQ5NywiZXhwIjoxNjgxMjkzODk3fQ.czowDRXaUU_WMCJq1mpXIOXq7wOwyrtsm7-uMVZh9No",
+  "createdAt": {
+    "$date": "2023-04-11T10:04:57.335Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T14:17:33.227Z"
+  },
+  "__v": 0,
+  "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDM1MzBjOWQyMjJkMzM2OTAwNTM1NTAiLCJpYXQiOjE2ODEyMDc0OTcsImV4cCI6MTY4MTgxMjI5N30.xeCm11f1S_q_sjN1x1jKYmLzQMop8D73hmETC6TkETQ"
+},{
+  "_id": {
+    "$oid": "643538bfd222d336900535c5"
+  },
+  "username": "ngoc phuong",
+  "email": "phuong92@gmail.com",
+  "phone": "0909456412",
+  "address": "",
+  "city": "",
+  "country": "",
+  "password": "$2b$10$lN6pT9uEOgIoPFUEFbK45eBWBlr0lhqbIAe6erGu3f3VK3fIby6G2",
+  "roles": [
+    "user",
+    "admin"
+  ],
+  "confirmation": "confirm",
+  "deleted": false,
+  "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDM1MzhiZmQyMjJkMzM2OTAwNTM1YzUiLCJyb2xlcyI6WyJ1c2VyIiwiYWRtaW4iXSwiaWF0IjoxNjgxMjI2MTk1LCJleHAiOjE2ODEzMTI1OTV9.mNr0j28oRwTsFSFdMeX4IaHrdXfFHBikMYfwM9NdDRY",
+  "createdAt": {
+    "$date": "2023-04-11T10:38:55.017Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T15:44:54.454Z"
+  },
+  "__v": 0,
+  "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDM1MzhiZmQyMjJkMzM2OTAwNTM1YzUiLCJpYXQiOjE2ODEyMjYxOTUsImV4cCI6MTY4MTgzMDk5NX0.lz9BgdDPQWEcOZS0qeurNhwmLL8N1GVTTuvwn7pxl7g"
+},{
+  "_id": {
+    "$oid": "6435796630677a4f5566f05a"
+  },
+  "username": "sugar",
+  "email": "sugar@gmail.com",
+  "phone": "0907344011",
+  "address": "",
+  "city": "",
+  "country": "",
+  "password": "$2b$10$RE2vlL7HEobgHFmqpS0mVeKooqstlffONn3eLz/Lb9RbZ6GxRc/mW",
+  "roles": [
+    "user"
+  ],
+  "confirmation": "confirm",
+  "deleted": false,
+  "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDM1Nzk2NjMwNjc3YTRmNTU2NmYwNWEiLCJyb2xlcyI6WyJ1c2VyIl0sImlhdCI6MTY4MTIyNjA4NiwiZXhwIjoxNjgxMzEyNDg2fQ.JCQ1rX0Ftr6KUBO5IZ1A9kKq_iVCx_psRTq2Q3w3as8",
+  "createdAt": {
+    "$date": "2023-04-11T15:14:46.973Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T15:32:22.451Z"
+  },
+  "__v": 0,
+  "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDM1Nzk2NjMwNjc3YTRmNTU2NmYwNWEiLCJpYXQiOjE2ODEyMjYwODcsImV4cCI6MTY4MTgzMDg4N30.FjgjU4rGQ8MMokchNtAXU0URGBSvnX9ToR-n4Xu_poI"
+}]

@@ -1,0 +1,934 @@
+[{
+  "_id": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "username": "Van Ngoc Phuong",
+  "phone": "0909489406",
+  "email": "vnphuong2512@gmail.com",
+  "address": "28 xuan hoa, xuan loc",
+  "city": "dong nai",
+  "country": "vn",
+  "orders": [
+    {
+      "$oid": "6426509a0c1e7f1b30edaa80"
+    },
+    {
+      "$oid": "6426514e39338c1922cfd3d4"
+    },
+    {
+      "$oid": "6426516239338c1922cfd3db"
+    },
+    {
+      "$oid": "642651a8e337beec0e1880ca"
+    },
+    {
+      "$oid": "642651f4e337beec0e1880d1"
+    },
+    {
+      "$oid": "64265212e337beec0e1880d8"
+    },
+    {
+      "$oid": "6426522be337beec0e1880df"
+    },
+    {
+      "$oid": "64265274648dff06ff3a7933"
+    },
+    {
+      "$oid": "642658d5453331722aee1ea3"
+    },
+    {
+      "$oid": "642658ef453331722aee1eac"
+    },
+    {
+      "$oid": "64265a04a359426857859e57"
+    },
+    {
+      "$oid": "6426623070e359037ddcb33e"
+    },
+    {
+      "$oid": "6426632570e359037ddcb433"
+    },
+    {
+      "$oid": "642663b470e359037ddcb596"
+    },
+    {
+      "$oid": "6426e31b849ab39dab653604"
+    },
+    {
+      "$oid": "64278f6f2bf7fcfbde7824da"
+    },
+    {
+      "$oid": "64278fd674d4388c4a203490"
+    },
+    {
+      "$oid": "64278ff338f1d263e85e5ae3"
+    },
+    {
+      "$oid": "64278ff838f1d263e85e5aec"
+    },
+    {
+      "$oid": "6427911138f1d263e85e5af5"
+    },
+    {
+      "$oid": "6427915738f1d263e85e5b08"
+    },
+    {
+      "$oid": "6427918e38f1d263e85e5b27"
+    },
+    {
+      "$oid": "6427918f38f1d263e85e5b30"
+    },
+    {
+      "$oid": "6427980b07bf1741d7649a77"
+    },
+    {
+      "$oid": "6427986c07bf1741d7649abd"
+    },
+    {
+      "$oid": "6427996c07bf1741d7649afa"
+    },
+    {
+      "$oid": "64279a0b07bf1741d7649b1e"
+    },
+    {
+      "$oid": "64279a8707bf1741d7649b37"
+    },
+    {
+      "$oid": "64279b2e07bf1741d7649b4e"
+    },
+    {
+      "$oid": "64279b5c07bf1741d7649b64"
+    },
+    {
+      "$oid": "64279b9507bf1741d7649b7a"
+    },
+    {
+      "$oid": "64279bc807bf1741d7649b88"
+    },
+    {
+      "$oid": "64279bff07bf1741d7649ba2"
+    },
+    {
+      "$oid": "64279f3f07bf1741d7649bf0"
+    },
+    {
+      "$oid": "6427b7b207bf1741d7649e45"
+    },
+    {
+      "$oid": "6427faa794d41eb0066b82d6"
+    },
+    {
+      "$oid": "64282ff9643af5a35559c85b"
+    },
+    {
+      "$oid": "6428f95dbcc1c42dcac0adc7"
+    },
+    {
+      "$oid": "6428f9bbbcc1c42dcac0ae23"
+    },
+    {
+      "$oid": "642a9b18748c3da9379854fd"
+    },
+    {
+      "$oid": "642ad2b0706391daf8e81bf0"
+    },
+    {
+      "$oid": "642ad444706391daf8e81c10"
+    },
+    {
+      "$oid": "642d3f87a5e0b4283b5607a5"
+    },
+    {
+      "$oid": "642d3ff2a5e0b4283b5607d3"
+    },
+    {
+      "$oid": "642d40c6a5e0b4283b560802"
+    },
+    {
+      "$oid": "642d7755ff090bf61a48941d"
+    },
+    {
+      "$oid": "642d801f84a803eb907ec238"
+    },
+    {
+      "$oid": "642e7ef89e16235a164b16c6"
+    },
+    {
+      "$oid": "642eb98d8b316b313eed1c03"
+    },
+    {
+      "$oid": "643016ec093fa001bcdac913"
+    },
+    {
+      "$oid": "64301aa3093fa001bcdacb43"
+    },
+    {
+      "$oid": "64324e08bd35685fc9c25563"
+    },
+    {
+      "$oid": "64329a54fa0e41b815c484ab"
+    },
+    {
+      "$oid": "64329b24fa0e41b815c48508"
+    },
+    {
+      "$oid": "6432a3706f89177e02c0ff9d"
+    },
+    {
+      "$oid": "6432a404669f3e5efa656300"
+    },
+    {
+      "$oid": "6432af85669f3e5efa65651e"
+    },
+    {
+      "$oid": "6432b547671429301b9329f3"
+    },
+    {
+      "$oid": "6432b7cd1f365131727c8b5e"
+    },
+    {
+      "$oid": "6432c3cf5011a5b3c4d8071a"
+    },
+    {
+      "$oid": "6433c92b4404d79dfb9620dc"
+    },
+    {
+      "$oid": "6434c814997e6083556c0d93"
+    },
+    {
+      "$oid": "6434cfa77a27ef9e7bdeff31"
+    },
+    {
+      "$oid": "6434d31d05f21501b1d13be2"
+    },
+    {
+      "$oid": "6434d493ce43c821258105b8"
+    },
+    {
+      "$oid": "6434d5d936284e769d8c36f6"
+    },
+    {
+      "$oid": "6434d6d96a1a119c55f21c3a"
+    },
+    {
+      "$oid": "6434d80337257ff150d23c8a"
+    },
+    {
+      "$oid": "6434d84a37257ff150d23d15"
+    },
+    {
+      "$oid": "6434d97337257ff150d23e27"
+    }
+  ],
+  "roles": [
+    "user"
+  ],
+  "password": "$2b$10$2nGWiHtDSW/vik.usRCFX.FfapdipWIxmqFEcDGAOsw2xS87XP3aq",
+  "deleted": false,
+  "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDI1ODU0M2VkNGZhZTY2OTE0OWRiNDQiLCJyb2xlcyI6WyJ1c2VyIl0sImlhdCI6MTY4MTE4MDYyNiwiZXhwIjoxNjgxMjY3MDI2fQ.AhhWM6W5eH3u8Ez_QbYmsE1yKh9jSLuKXnq8Ba3MVt0",
+  "createdAt": {
+    "$date": "2023-03-30T12:49:07.188Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T03:52:19.529Z"
+  },
+  "__v": 85,
+  "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDI1ODU0M2VkNGZhZTY2OTE0OWRiNDQiLCJpYXQiOjE2ODExODA2MjYsImV4cCI6MTY4MTc4NTQyNn0.sZX4ACldoOxzJ5KEXipUfpgFaJ5WGnsZsbTLkltFBJM",
+  "birthday": {
+    "$date": "1992-12-25T00:00:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6426682970e359037ddcb77c"
+  },
+  "username": "tran van b",
+  "phone": "012365982",
+  "email": "ngocly@gmail.com",
+  "address": "sdfsdf",
+  "city": "bac kan",
+  "country": "vn",
+  "orders": [
+    {
+      "$oid": "643274b3bd35685fc9c25898"
+    },
+    {
+      "$oid": "64327887bd35685fc9c25925"
+    },
+    {
+      "$oid": "64327a46bd35685fc9c25971"
+    }
+  ],
+  "roles": [
+    "user"
+  ],
+  "password": "$2b$10$MS8FO.bCXB1vml8XJbawceFFUz5cMXixPx0VesOFYJIFMwPbeSpja",
+  "deleted": false,
+  "access_token": null,
+  "createdAt": {
+    "$date": "2023-03-31T04:57:13.723Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T08:41:42.416Z"
+  },
+  "__v": 3,
+  "refresh_token": null,
+  "birthday": "1990-09-28"
+},{
+  "_id": {
+    "$oid": "642a65e2ba2093e5b7a63a28"
+  },
+  "username": "tran tien thanh",
+  "phone": "0123456987",
+  "email": "thanhtien@gmail.com",
+  "address": "",
+  "city": "",
+  "country": "",
+  "orders": [],
+  "roles": [
+    "user"
+  ],
+  "password": "$2b$10$i.7dNzSRrDDgLfvyIqbFtuo1bSd/hphK3kW4MKsELWczZ49rzWEyK",
+  "deleted": true,
+  "access_token": null,
+  "createdAt": {
+    "$date": "2023-04-03T05:36:34.611Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-05T01:58:51.394Z"
+  },
+  "__v": 0,
+  "refresh_token": null,
+  "deletedAt": {
+    "$date": "2023-04-05T01:58:51.393Z"
+  }
+},{
+  "_id": {
+    "$oid": "642a6702ba2093e5b7a63a69"
+  },
+  "username": "vu kieu phuong",
+  "phone": "0909489407",
+  "email": "kieuphuong@gmail.com",
+  "birthday": "1995-01-03",
+  "address": "Phuoc Tinh",
+  "city": "vũng tàu",
+  "country": "vn",
+  "orders": [
+    {
+      "$oid": "642d79d9d9ddb575078521b6"
+    }
+  ],
+  "roles": [
+    "user"
+  ],
+  "password": "$2b$10$g0CDTjjShtRbV.qTNnxgJ.5blv.caIR1YLRpo7UodQvqvKsJIBRAK",
+  "deleted": false,
+  "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJhNjcwMmJhMjA5M2U1YjdhNjNhNjkiLCJyb2xlcyI6WyJ1c2VyIl0sImlhdCI6MTY4MDUwMDQ4MiwiZXhwIjoxNjgwNTAyMjgyfQ.yZ5IxIDqGJJ-QbYmvs5vlhhucd41j72zW7x-3aQ-29M",
+  "createdAt": {
+    "$date": "2023-04-03T05:41:22.112Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-05T13:38:33.272Z"
+  },
+  "__v": 1,
+  "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJhNjcwMmJhMjA5M2U1YjdhNjNhNjkiLCJpYXQiOjE2ODA1MDA0ODIsImV4cCI6MTY4MDU4Njg4Mn0.GtZiqAJnAn1-xV0HrkCuL29aUNi5mCcIIf0sEAzH3Kk"
+},{
+  "_id": {
+    "$oid": "642a68a5ba2093e5b7a63aa3"
+  },
+  "username": "Huyen Ton Nu Nhu Mai",
+  "phone": "0908927650",
+  "email": "nhumai@gmail.com",
+  "birthday": "1966-11-23",
+  "address": "xuan hoa",
+  "city": "dong nai",
+  "country": "vn",
+  "orders": [
+    {
+      "$oid": "642c3152bd2699b55382f5f0"
+    }
+  ],
+  "roles": [
+    "user"
+  ],
+  "password": "$2b$10$s/YQpG6WZRznFJ7rvtnvR.wJgAI2Q2W/hTk9QbMeFig8vc035Px5e",
+  "deleted": false,
+  "access_token": null,
+  "createdAt": {
+    "$date": "2023-04-03T05:48:21.917Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-07T05:43:50.184Z"
+  },
+  "__v": 1,
+  "refresh_token": null
+},{
+  "_id": {
+    "$oid": "642a6a07535da77dd1d424dc"
+  },
+  "username": "Van A Lanh",
+  "phone": "0908824573",
+  "email": "lanhvan@gmail.com",
+  "birthday": "1964-09-09",
+  "address": "xuan hoc",
+  "city": "dong nai",
+  "country": "vn",
+  "orders": [
+    {
+      "$oid": "64324ffbbd35685fc9c2566e"
+    },
+    {
+      "$oid": "6433be774404d79dfb96199d"
+    }
+  ],
+  "roles": [
+    "admin"
+  ],
+  "password": "$2b$10$u4NfAmhcjhA4nTQSjNsQ8uKNvFeAhsz20vvQcZl7Mk85qoMPnXs22",
+  "deleted": false,
+  "access_token": null,
+  "createdAt": {
+    "$date": "2023-04-03T05:54:15.159Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-10T07:44:55.931Z"
+  },
+  "__v": 2,
+  "refresh_token": null
+},{
+  "_id": {
+    "$oid": "642a9c1a748c3da93798551a"
+  },
+  "username": "Van Nhat Hieu",
+  "phone": "0909489408",
+  "email": "hieuvan@gmail.com",
+  "birthday": "1988-11-25",
+  "address": "Chung cu H1",
+  "city": "ho chi minh city",
+  "country": "vn",
+  "orders": [],
+  "roles": [
+    "user"
+  ],
+  "password": "$2b$10$OIMjQoV9M6QkH7u9w8tdC./uXnIAmqKnpixGudqFgc4ma2Xo0n6Ky",
+  "deleted": false,
+  "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJhOWMxYTc0OGMzZGE5Mzc5ODU1MWEiLCJyb2xlcyI6WyJ1c2VyIl0sImlhdCI6MTY4MDUxNDA3NCwiZXhwIjoxNjgwNTE1ODc0fQ.4ydevRe5PH313Jb2dPmm1ojSNB-obmY2giDwp4Axsuc",
+  "createdAt": {
+    "$date": "2023-04-03T09:27:54.441Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-03T09:27:54.582Z"
+  },
+  "__v": 0,
+  "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJhOWMxYTc0OGMzZGE5Mzc5ODU1MWEiLCJpYXQiOjE2ODA1MTQwNzQsImV4cCI6MTY4MDYwMDQ3NH0.aY-IeOw91qgwYk0RQw3Kb20aqhrBXyn_zlHOMeX16ts"
+},{
+  "_id": {
+    "$oid": "642aab6b9f01b28f28dc0c8d"
+  },
+  "username": "van ngoc ly",
+  "phone": "0933860293",
+  "email": "ngocly28@gmail.com",
+  "birthday": "1992-09-28",
+  "address": "xuan hoa, xuan loc",
+  "city": "dong nai",
+  "country": "vn",
+  "orders": [
+    {
+      "$oid": "642bef542183a6425524cba9"
+    },
+    {
+      "$oid": "642bf25291db3f7427845f8c"
+    },
+    {
+      "$oid": "642bf26291db3f7427845fa2"
+    },
+    {
+      "$oid": "642d3e05a5e0b4283b56071c"
+    },
+    {
+      "$oid": "642eb9f98b316b313eed1c3a"
+    },
+    {
+      "$oid": "64324f09bd35685fc9c255f3"
+    },
+    {
+      "$oid": "64326f84bd35685fc9c2577b"
+    },
+    {
+      "$oid": "6432a931669f3e5efa65639c"
+    },
+    {
+      "$oid": "6434c1793bedb8fd99a0d938"
+    },
+    {
+      "$oid": "6434e18037257ff150d23f8d"
+    },
+    {
+      "$oid": "64356efebd5391da1e66e9e1"
+    }
+  ],
+  "roles": [
+    "user"
+  ],
+  "password": "$2b$10$9.lykVChnq2aMUaGthEeZeOd.W2DY6eX4I44OLccbPg3lVz1EDfMi",
+  "deleted": false,
+  "access_token": null,
+  "createdAt": {
+    "$date": "2023-04-03T10:33:15.032Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T14:30:22.534Z"
+  },
+  "__v": 11,
+  "refresh_token": null
+},{
+  "_id": {
+    "$oid": "642c2763d96e1451026a4659"
+  },
+  "username": "Tran Viet Thuy",
+  "phone": "0909489403",
+  "email": "vietthuy@gmail.com",
+  "birthday": "2000-01-01",
+  "address": "cho da lat",
+  "city": "da lat",
+  "country": "vn",
+  "orders": [],
+  "roles": [
+    "user"
+  ],
+  "password": "$2b$10$4qoDBwRHKfGKlvH7FhXlKOOz1E4mUxuRDkfuW92y.kek8YPgQ5GzK",
+  "deleted": false,
+  "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJjMjc2M2Q5NmUxNDUxMDI2YTQ2NTkiLCJyb2xlcyI6WyJ1c2VyIl0sImlhdCI6MTY4MDYxNTI2NywiZXhwIjoxNjgwNzAxNjY3fQ.VGPGHOoMiYaYxR5eYrihcImrTnK3Xv0yoAnfYD6e0AE",
+  "createdAt": {
+    "$date": "2023-04-04T13:34:27.319Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-04T14:20:30.665Z"
+  },
+  "__v": 0,
+  "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJjMjc2M2Q5NmUxNDUxMDI2YTQ2NTkiLCJpYXQiOjE2ODA2MTUyNjcsImV4cCI6MTY4MTIyMDA2N30.e6sbr5Hwf6d2NRESXwR3GLrDOHdXM1P9avAIYAHe7Kw"
+},{
+  "_id": {
+    "$oid": "642cd4f2a5e0b4283b55f132"
+  },
+  "username": "sugar",
+  "phone": "0123456988",
+  "email": "sugar@gmail.com",
+  "birthday": {
+    "$date": "2017-10-04T00:00:00.000Z"
+  },
+  "address": "xuan hoa",
+  "city": "dong nai",
+  "country": "vn",
+  "orders": [
+    {
+      "$oid": "642d3ec9a5e0b4283b560752"
+    }
+  ],
+  "roles": [
+    "user"
+  ],
+  "password": "$2b$10$4uQN0zoUgOxKR.zdg2MAH.rzUKaiyWcioTC0ysdBO6G8Rbyowk2Pu",
+  "deleted": false,
+  "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJjZDRmMmE1ZTBiNDI4M2I1NWYxMzIiLCJyb2xlcyI6WyJ1c2VyIl0sImlhdCI6MTY4MDY1OTY5OCwiZXhwIjoxNjgwNzQ2MDk4fQ.5VuwCQwofTNqamTaAyhkKYG-Gu9UQhpMfJsQexkJeYk",
+  "createdAt": {
+    "$date": "2023-04-05T01:54:58.018Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T01:31:23.205Z"
+  },
+  "__v": 1,
+  "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJjZDRmMmE1ZTBiNDI4M2I1NWYxMzIiLCJpYXQiOjE2ODA2NTk2OTgsImV4cCI6MTY4MTI2NDQ5OH0.PgIWMr6S98V8vPUEN0lv1krKk6Sfya6V6yD0-P_Tb_0"
+},{
+  "_id": {
+    "$oid": "642ee3b48b316b313eed2399"
+  },
+  "username": "dau",
+  "phone": "0123456985",
+  "email": "dau@gmail.com",
+  "birthday": "2017-01-01",
+  "address": "xuan loc",
+  "city": "dong nai",
+  "country": "vn",
+  "orders": [],
+  "roles": [
+    "user"
+  ],
+  "password": "$2b$10$cHNv5Ou5qaHE1CgAwd/SmuXMOVsXRefy4VDPzjAlpqGJDbeeBTsLi",
+  "deleted": false,
+  "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJlZTNiNDhiMzE2YjMxM2VlZDIzOTkiLCJyb2xlcyI6WyJ1c2VyIl0sImlhdCI6MTY4MDc5NDU0OCwiZXhwIjoxNjgwODgwOTQ4fQ.un8SzL7s4WD5BmN6IO8Rci-_ENPsMBcMrKdy_1SlOq8",
+  "createdAt": {
+    "$date": "2023-04-06T15:22:28.459Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-06T15:22:28.587Z"
+  },
+  "__v": 0,
+  "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDJlZTNiNDhiMzE2YjMxM2VlZDIzOTkiLCJpYXQiOjE2ODA3OTQ1NDgsImV4cCI6MTY4MTM5OTM0OH0.DfjoUMbmY-Vq5wY0nJ-wZPucA3nzLZNHLwygbh3Smt0"
+},{
+  "_id": {
+    "$oid": "6432a49d669f3e5efa656306"
+  },
+  "username": "huyen ton nu huong lan",
+  "phone": "0123965443",
+  "email": "lan@gmail.com",
+  "address": "xuan hoa",
+  "city": "dong nai",
+  "country": "vn",
+  "orders": [
+    {
+      "$oid": "6432a49d669f3e5efa65630b"
+    }
+  ],
+  "roles": [],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-04-09T11:42:21.734Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T11:42:21.749Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "6432adbc669f3e5efa6564b0"
+  },
+  "username": "Tran thi my phuong",
+  "phone": "0901231231",
+  "email": "myphuong@gmail.com",
+  "address": "sandybay",
+  "city": "sandy bay",
+  "country": "au",
+  "orders": [
+    {
+      "$oid": "6432adbc669f3e5efa6564b5"
+    }
+  ],
+  "roles": [],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-04-09T12:21:16.777Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T12:21:16.786Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "6432b3358e4688d73158b176"
+  },
+  "username": "ho van mau",
+  "phone": "09094894063",
+  "email": "vanmau@gmail.com",
+  "address": "28 xuan hoa, xuan loc",
+  "city": "dong nai",
+  "country": "vn",
+  "orders": [
+    {
+      "$oid": "6432b33a8e4688d73158b17d"
+    }
+  ],
+  "roles": [],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-04-09T12:44:37.603Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T12:44:42.160Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "6432b5c842dbd48d4d22344e"
+  },
+  "username": "nguyen thi tuyet nhu",
+  "phone": "0909489401",
+  "email": "tuyetnhu@gmail.com",
+  "address": "123a",
+  "city": "ca mau",
+  "country": "vn",
+  "orders": [
+    {
+      "$oid": "6432b5c842dbd48d4d223454"
+    }
+  ],
+  "roles": [],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-04-09T12:55:36.028Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T12:55:36.119Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "6432b7318cb9c2d5e552eb73"
+  },
+  "username": "nguyen thi my thuy",
+  "phone": "0909489405",
+  "email": "mythuy@gmail.com",
+  "address": "28 xuan hoa, xuan loc",
+  "city": "dong nai",
+  "country": "vn",
+  "orders": [
+    {
+      "$oid": "6432b7318cb9c2d5e552eb79"
+    }
+  ],
+  "roles": [],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-04-09T13:01:37.896Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T13:01:37.943Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "6432b83a1f365131727c8b92"
+  },
+  "username": "van ngoc ly",
+  "phone": "0933860294",
+  "email": "ngocly09@gmail.com",
+  "address": "123a",
+  "city": "binh phuoc",
+  "country": "vn",
+  "orders": [
+    {
+      "$oid": "6432b83a1f365131727c8b98"
+    }
+  ],
+  "roles": [],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-04-09T13:06:02.869Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T13:06:02.895Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "6432bcff65ee44ef5fa3c3e7"
+  },
+  "username": "nguyen thi my tu",
+  "phone": "012365496",
+  "email": "mytu@gmail.com",
+  "birthday": "01/01/1990",
+  "address": "ben nghe",
+  "city": "ho chi minh city",
+  "country": "vn",
+  "orders": [
+    {
+      "$oid": "6432bcff65ee44ef5fa3c3ed"
+    }
+  ],
+  "roles": [],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-04-09T13:26:23.438Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T13:26:23.499Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "6432bdbadbae37d358a48da1"
+  },
+  "username": "tran thi my hanh",
+  "phone": "0909456123",
+  "email": "myhanhZ@gmail.com",
+  "birthday": {
+    "$date": "2000-01-10T00:00:00.000Z"
+  },
+  "address": "phu nhuan",
+  "city": "ho chi minh city",
+  "country": "vn",
+  "orders": [
+    {
+      "$oid": "6432bdbadbae37d358a48da7"
+    }
+  ],
+  "roles": [
+    "user"
+  ],
+  "deleted": false,
+  "createdAt": {
+    "$date": "2023-04-09T13:29:30.371Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T14:23:45.707Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "6433bebf4404d79dfb9619ba"
+  },
+  "username": "Nguyen thi thuy",
+  "phone": "0909452452",
+  "email": "thithuy123@gmail.com",
+  "birthday": {
+    "$date": "1995-02-01T00:00:00.000Z"
+  },
+  "address": "123a",
+  "city": "ca mau",
+  "country": "vn",
+  "orders": [],
+  "roles": [
+    "user"
+  ],
+  "password": "$2b$10$58HiOFSsIpTKbWiGNSAboOaQY9rR/GcGzvZuGdos6cBjXf2WAhNY2",
+  "deleted": false,
+  "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDMzYmViZjQ0MDRkNzlkZmI5NjE5YmEiLCJyb2xlcyI6WyJ1c2VyIl0sImlhdCI6MTY4MTExMjc2NywiZXhwIjoxNjgxMTk5MTY3fQ.muOgr2LCOFWdDjZ6zXNA0Bp3-2I017nAzlPNx7tCx2Y",
+  "createdAt": {
+    "$date": "2023-04-10T07:46:07.875Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-10T07:46:08.062Z"
+  },
+  "__v": 0,
+  "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDMzYmViZjQ0MDRkNzlkZmI5NjE5YmEiLCJpYXQiOjE2ODExMTI3NjgsImV4cCI6MTY4MTcxNzU2OH0.qQ5UQUhYJtGGJjuEUZELPLRm-dXYScxZQ1iIqHudU3E"
+},{
+  "_id": {
+    "$oid": "6433f539c3e14645cd0426f8"
+  },
+  "username": "van ngoc phuong",
+  "phone": "0123456789",
+  "email": "vnphuong@gmail.com",
+  "address": "",
+  "city": "",
+  "country": "",
+  "orders": [],
+  "roles": [
+    "user"
+  ],
+  "password": "$2b$10$YLR9h/rggK6bp7FOKI.JkeDpKMfyzjvSFTcLJJnIWE6IkOb91ILYK",
+  "deleted": false,
+  "access_token": null,
+  "createdAt": {
+    "$date": "2023-04-10T11:38:33.565Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T01:49:53.834Z"
+  },
+  "__v": 0,
+  "refresh_token": null,
+  "birthday": {
+    "$date": "1999-01-01T00:00:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6434bca27b45d3edc1342478"
+  },
+  "username": "phuong",
+  "phone": "0909489402",
+  "email": "phuong@gmail.com",
+  "birthday": {
+    "$date": "2001-01-01T00:00:00.000Z"
+  },
+  "address": "123",
+  "city": "salzburg",
+  "country": "at",
+  "orders": [],
+  "roles": [
+    "user"
+  ],
+  "password": "$2b$10$1pnA/UjG5h8ZnxjfzBPb9upWA9c/9TK.ahlbF2hMKwg0cf6O60MQ6",
+  "deleted": true,
+  "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDM0YmNhMjdiNDVkM2VkYzEzNDI0NzgiLCJyb2xlcyI6WyJ1c2VyIl0sImlhdCI6MTY4MTE3Nzc2MiwiZXhwIjoxNjgxMjY0MTYyfQ.N3aua5daPxDVv5atg0Pfl6lPUquCUiTF5hz1Fy6jWwg",
+  "createdAt": {
+    "$date": "2023-04-11T01:49:22.403Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T14:09:40.920Z"
+  },
+  "__v": 0,
+  "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDM0YmNhMjdiNDVkM2VkYzEzNDI0NzgiLCJpYXQiOjE2ODExNzc3NjIsImV4cCI6MTY4MTc4MjU2Mn0.i1r4pGUjOM_4mO4iyPokmhMt7NGzC2H8bGs8rvg2NJg",
+  "deletedAt": {
+    "$date": "2023-04-11T14:09:40.920Z"
+  }
+},{
+  "_id": {
+    "$oid": "6434c8e0997e6083556c0e93"
+  },
+  "username": "tran thi hanh",
+  "phone": "0909123456",
+  "email": "myhanh@gmail.com",
+  "address": "28 xuan hoa, xuan loc",
+  "city": "dong nai",
+  "country": "vn",
+  "orders": [
+    {
+      "$oid": "6434c8e0997e6083556c0e99"
+    }
+  ],
+  "roles": [
+    "user"
+  ],
+  "deleted": true,
+  "createdAt": {
+    "$date": "2023-04-11T02:41:36.584Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T14:23:53.868Z"
+  },
+  "__v": 1,
+  "deletedAt": {
+    "$date": "2023-04-11T14:23:53.868Z"
+  }
+},{
+  "_id": {
+    "$oid": "64353644d222d336900535a9"
+  },
+  "username": "van ngoc phuong",
+  "phone": "0909412345",
+  "email": "vnphuong12@gmail.com",
+  "address": "",
+  "city": "",
+  "country": "az",
+  "orders": [],
+  "roles": [
+    "user"
+  ],
+  "password": "$2b$10$6zNA16JRy4fmnbNvW1L27uglD/G/01cWRm1eoFBdPDItaCQFqm2du",
+  "deleted": false,
+  "access_token": null,
+  "createdAt": {
+    "$date": "2023-04-11T10:28:20.930Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T14:22:47.193Z"
+  },
+  "__v": 0,
+  "refresh_token": null
+},{
+  "_id": {
+    "$oid": "64356dd3bd5391da1e66e94f"
+  },
+  "username": "tran thi hanh",
+  "phone": "0909489422",
+  "email": "hanhtran@gmail.com",
+  "birthday": {
+    "$date": "2001-01-01T00:00:00.000Z"
+  },
+  "address": "2123",
+  "city": "afritz",
+  "country": "at",
+  "orders": [],
+  "roles": [
+    "user"
+  ],
+  "password": "$2b$10$B7gv7MBQhwc3zXqfgU.7jOqQAJzC/2tVbKJq/yWXzRsRcDsbBdm1a",
+  "deleted": false,
+  "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDM1NmRkM2JkNTM5MWRhMWU2NmU5NGYiLCJyb2xlcyI6WyJ1c2VyIl0sImlhdCI6MTY4MTIyMzEyMywiZXhwIjoxNjgxMzA5NTIzfQ.Vbqx_OF01AgfOVRI5my6Q37OG_LVf6vrodyC0YAK-sI",
+  "createdAt": {
+    "$date": "2023-04-11T14:25:23.558Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T14:25:23.691Z"
+  },
+  "__v": 0,
+  "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDM1NmRkM2JkNTM5MWRhMWU2NmU5NGYiLCJpYXQiOjE2ODEyMjMxMjMsImV4cCI6MTY4MTgyNzkyM30.fbkpYrCbi6vA7HFJsBg3UGGSrN5ECNfQKoh1VXScJ9s"
+}]

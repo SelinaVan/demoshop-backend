@@ -1,0 +1,2613 @@
+[{
+  "_id": {
+    "$oid": "6427911138f1d263e85e5af5"
+  },
+  "orderDate": {
+    "$date": "2023-04-01T01:59:13.611Z"
+  },
+  "shippedDate": "Sat Apr 08 2023 09:04:01 GMT+0700 (Indochina Time)",
+  "note": "giao trong gio hanh chinh",
+  "cost": 650,
+  "orderDetails": [
+    {
+      "$oid": "6427911138f1d263e85e5af3"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 95514,
+  "createdAt": {
+    "$date": "2023-03-28T02:04:01.877Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-01T02:04:01.877Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427915738f1d263e85e5b08"
+  },
+  "orderDate": {
+    "$date": "2023-04-01T01:59:13.611Z"
+  },
+  "shippedDate": "Sat Apr 08 2023 09:05:11 GMT+0700 (Indochina Time)",
+  "note": "giao trong gio hanh chinh",
+  "cost": 650,
+  "orderDetails": [
+    {
+      "$oid": "6427915738f1d263e85e5b06"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 92906,
+  "createdAt": {
+    "$date": "2023-04-01T02:05:11.265Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-01T02:05:11.265Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427918e38f1d263e85e5b27"
+  },
+  "orderDate": {
+    "$date": "2023-04-01T01:59:13.611Z"
+  },
+  "shippedDate": "Sat Apr 08 2023 09:06:06 GMT+0700 (Indochina Time)",
+  "note": "giao trong gio hanh chinh",
+  "cost": 650,
+  "orderDetails": [
+    {
+      "$oid": "6427918e38f1d263e85e5b25"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 91710,
+  "createdAt": {
+    "$date": "2023-04-01T02:06:06.627Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-01T02:06:06.627Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427918f38f1d263e85e5b30"
+  },
+  "orderDate": {
+    "$date": "2023-04-01T01:59:13.611Z"
+  },
+  "shippedDate": "Sat Apr 08 2023 09:06:07 GMT+0700 (Indochina Time)",
+  "note": "giao trong gio hanh chinh",
+  "cost": 650,
+  "orderDetails": [
+    {
+      "$oid": "6427918f38f1d263e85e5b2e"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "confirmation",
+  "deleted": false,
+  "orderId": 95932,
+  "createdAt": {
+    "$date": "2023-04-01T02:06:07.770Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-01T02:15:52.297Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427919038f1d263e85e5b39"
+  },
+  "orderDate": {
+    "$date": "2023-04-01T01:59:13.611Z"
+  },
+  "shippedDate": "Sat Apr 08 2023 09:06:08 GMT+0700 (Indochina Time)",
+  "note": "giao trong gio hanh chinh",
+  "cost": 650,
+  "orderDetails": [
+    {
+      "$oid": "6427919038f1d263e85e5b37"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": true,
+  "orderId": 93366,
+  "createdAt": {
+    "$date": "2023-04-01T02:06:08.452Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-01T02:15:42.941Z"
+  },
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2023-04-01T02:15:42.940Z"
+  }
+},{
+  "_id": {
+    "$oid": "6427919138f1d263e85e5b42"
+  },
+  "orderDate": {
+    "$date": "2023-04-01T01:59:13.611Z"
+  },
+  "shippedDate": "Sat Apr 08 2023 09:06:09 GMT+0700 (Indochina Time)",
+  "note": "giao trong gio hanh chinh",
+  "cost": 650,
+  "orderDetails": [
+    {
+      "$oid": "6427919138f1d263e85e5b40"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": true,
+  "orderId": 96330,
+  "createdAt": {
+    "$date": "2023-04-01T02:06:09.510Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-01T02:15:38.382Z"
+  },
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2023-04-01T02:15:38.381Z"
+  }
+},{
+  "_id": {
+    "$oid": "6427978eee8da43532e80346"
+  },
+  "orderDate": {
+    "$date": "2023-04-01T02:31:39.154Z"
+  },
+  "shippedDate": "Sat Apr 08 2023 09:31:42 GMT+0700 (Indochina Time)",
+  "note": "giao trong gio hanh chinh",
+  "cost": 650,
+  "orderDetails": [
+    {
+      "$oid": "6427978eee8da43532e80344"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 97179,
+  "createdAt": {
+    "$date": "2023-04-01T02:31:42.568Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-01T02:31:42.568Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427980b07bf1741d7649a77"
+  },
+  "orderDate": {
+    "$date": "2023-04-01T02:33:45.449Z"
+  },
+  "shippedDate": "Sat Apr 08 2023 09:33:47 GMT+0700 (Indochina Time)",
+  "note": "giao trong gio hanh chinh",
+  "cost": 650,
+  "orderDetails": [
+    {
+      "$oid": "6427980b07bf1741d7649a75"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "confirmation",
+  "deleted": false,
+  "orderId": 93308,
+  "createdAt": {
+    "$date": "2023-04-01T02:33:47.516Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-01T02:35:05.869Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427986c07bf1741d7649abd"
+  },
+  "orderDate": {
+    "$date": "2023-04-01T02:33:45.449Z"
+  },
+  "shippedDate": "Sat Apr 08 2023 09:35:24 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 900,
+  "orderDetails": [
+    {
+      "$oid": "6427986c07bf1741d7649ab9"
+    },
+    {
+      "$oid": "6427986c07bf1741d7649aba"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 90511,
+  "createdAt": {
+    "$date": "2023-04-01T02:35:24.309Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-01T02:35:24.309Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427996c07bf1741d7649afa"
+  },
+  "orderDate": {
+    "$date": "2023-04-01T02:33:45.449Z"
+  },
+  "shippedDate": "Tue Apr 04 2023 09:39:40 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 900,
+  "orderDetails": [
+    {
+      "$oid": "6427996c07bf1741d7649af6"
+    },
+    {
+      "$oid": "6427996c07bf1741d7649af7"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 91080,
+  "createdAt": {
+    "$date": "2023-04-01T02:39:40.844Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-01T02:39:40.844Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64279a0b07bf1741d7649b1e"
+  },
+  "orderDate": {
+    "$date": "2023-04-01T02:33:45.449Z"
+  },
+  "shippedDate": "Sat Apr 08 2023 09:42:19 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 450,
+  "orderDetails": [
+    {
+      "$oid": "64279a0b07bf1741d7649b1c"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 91820,
+  "createdAt": {
+    "$date": "2023-04-01T02:42:19.605Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-01T02:42:19.605Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64279a8707bf1741d7649b37"
+  },
+  "orderDate": {
+    "$date": "2023-04-01T02:33:45.449Z"
+  },
+  "shippedDate": "Sat Apr 08 2023 09:44:23 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 900,
+  "orderDetails": [
+    {
+      "$oid": "64279a8707bf1741d7649b33"
+    },
+    {
+      "$oid": "64279a8707bf1741d7649b34"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 99833,
+  "createdAt": {
+    "$date": "2023-04-01T02:44:23.189Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-01T02:44:23.189Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64279b2e07bf1741d7649b4e"
+  },
+  "orderDate": {
+    "$date": "2023-04-01T02:33:45.449Z"
+  },
+  "shippedDate": "Sat Apr 01 2023 09:47:10 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 450,
+  "orderDetails": [
+    {
+      "$oid": "64279b2e07bf1741d7649b4c"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 92649,
+  "createdAt": {
+    "$date": "2023-04-01T02:47:10.241Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-01T02:47:10.241Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64279b5c07bf1741d7649b64"
+  },
+  "orderDate": {
+    "$date": "2023-04-01T02:33:45.449Z"
+  },
+  "shippedDate": "Sat Apr 01 2023 09:47:56 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 450,
+  "orderDetails": [
+    {
+      "$oid": "64279b5c07bf1741d7649b62"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 92437,
+  "createdAt": {
+    "$date": "2023-04-01T02:47:56.158Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-01T02:47:56.158Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64279b9507bf1741d7649b7a"
+  },
+  "orderDate": {
+    "$date": "2023-04-01T02:33:45.449Z"
+  },
+  "shippedDate": "Sat Apr 08 2023 09:48:53 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 450,
+  "orderDetails": [
+    {
+      "$oid": "64279b9507bf1741d7649b78"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 91504,
+  "createdAt": {
+    "$date": "2023-04-01T02:48:53.091Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-01T02:48:53.091Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64279bc807bf1741d7649b88"
+  },
+  "orderDate": {
+    "$date": "2023-04-01T02:33:45.449Z"
+  },
+  "shippedDate": "Sat Apr 08 2023 09:49:44 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 450,
+  "orderDetails": [
+    {
+      "$oid": "64279bc807bf1741d7649b86"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 94557,
+  "createdAt": {
+    "$date": "2023-04-01T02:49:44.849Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-01T02:49:44.849Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64279bff07bf1741d7649ba2"
+  },
+  "orderDate": {
+    "$date": "2023-04-01T02:33:45.449Z"
+  },
+  "shippedDate": "Tue Apr 04 2023 09:50:39 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 450,
+  "orderDetails": [
+    {
+      "$oid": "64279bff07bf1741d7649ba0"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "confirmation",
+  "deleted": false,
+  "orderId": 92084,
+  "createdAt": {
+    "$date": "2023-04-01T02:50:39.544Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-01T03:32:06.141Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64279dbe07bf1741d7649bd8"
+  },
+  "orderDate": {
+    "$date": "2023-04-01T02:33:45.449Z"
+  },
+  "shippedDate": "Sat Apr 01 2023 09:58:06 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 450,
+  "orderDetails": [
+    {
+      "$oid": "64279dbe07bf1741d7649bd6"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": true,
+  "orderId": 92140,
+  "createdAt": {
+    "$date": "2023-04-01T02:58:06.911Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-01T03:08:09.567Z"
+  },
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2023-04-01T03:08:09.566Z"
+  }
+},{
+  "_id": {
+    "$oid": "64279f3f07bf1741d7649bf0"
+  },
+  "orderDate": {
+    "$date": "2023-04-01T02:33:45.449Z"
+  },
+  "shippedDate": "Tue Apr 04 2023 10:04:31 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 950,
+  "orderDetails": [
+    {
+      "$oid": "64279f3f07bf1741d7649bee"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "cancel",
+  "deleted": false,
+  "orderId": 98474,
+  "createdAt": {
+    "$date": "2023-04-01T03:04:31.546Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-01T03:29:38.592Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427b5eb07bf1741d7649e06"
+  },
+  "orderDate": {
+    "$date": "2023-04-01T02:33:45.449Z"
+  },
+  "shippedDate": "Tue Apr 04 2023 11:41:15 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 450,
+  "orderDetails": [
+    {
+      "$oid": "6427b5eb07bf1741d7649e04"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "confirmation",
+  "deleted": true,
+  "orderId": 95742,
+  "createdAt": {
+    "$date": "2023-04-01T04:41:15.503Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-01T04:41:46.532Z"
+  },
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2023-04-01T04:41:46.532Z"
+  }
+},{
+  "_id": {
+    "$oid": "6427b7b207bf1741d7649e45"
+  },
+  "orderDate": {
+    "$date": "2023-04-01T02:33:45.449Z"
+  },
+  "shippedDate": "Tue Apr 04 2023 11:48:50 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 1150,
+  "orderDetails": [
+    {
+      "$oid": "6427b7b207bf1741d7649e41"
+    },
+    {
+      "$oid": "6427b7b207bf1741d7649e42"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 95817,
+  "createdAt": {
+    "$date": "2023-04-01T04:48:50.615Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-01T04:48:50.615Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6427faa794d41eb0066b82d6"
+  },
+  "orderDate": {
+    "$date": "2023-04-01T09:07:14.626Z"
+  },
+  "shippedDate": "Sat Apr 08 2023 16:34:31 GMT+0700 (Indochina Time)",
+  "note": "kiem tra hang truoc khi giao",
+  "cost": 450,
+  "orderDetails": [
+    {
+      "$oid": "6427faa794d41eb0066b82d4"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "confirmation",
+  "deleted": false,
+  "orderId": 91454,
+  "createdAt": {
+    "$date": "2023-04-01T09:34:31.798Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-01T09:37:09.696Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64282ff9643af5a35559c85b"
+  },
+  "orderDate": {
+    "$date": "2023-04-01T13:21:14.743Z"
+  },
+  "shippedDate": "Sat Apr 01 2023 20:22:01 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 2350,
+  "orderDetails": [
+    {
+      "$oid": "64282ff9643af5a35559c857"
+    },
+    {
+      "$oid": "64282ff9643af5a35559c858"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "confirmation",
+  "deleted": false,
+  "orderId": 95848,
+  "createdAt": {
+    "$date": "2023-04-01T13:22:01.052Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-01T14:10:34.941Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6428f95dbcc1c42dcac0adc7"
+  },
+  "orderDate": {
+    "$date": "2023-04-02T03:34:17.639Z"
+  },
+  "shippedDate": "Sun Apr 09 2023 10:41:17 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 800,
+  "orderDetails": [
+    {
+      "$oid": "6428f95dbcc1c42dcac0adc5"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 90329,
+  "createdAt": {
+    "$date": "2023-04-02T03:41:17.321Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:41:17.321Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6428f9bbbcc1c42dcac0ae23"
+  },
+  "orderDate": {
+    "$date": "2023-04-02T03:34:17.639Z"
+  },
+  "shippedDate": "Sun Apr 02 2023 10:42:51 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 450,
+  "orderDetails": [
+    {
+      "$oid": "6428f9bbbcc1c42dcac0ae21"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 99851,
+  "createdAt": {
+    "$date": "2023-04-02T03:42:51.847Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T03:42:51.847Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642a9b18748c3da9379854fd"
+  },
+  "orderDate": {
+    "$date": "2023-04-03T08:49:37.155Z"
+  },
+  "shippedDate": "Thu Apr 06 2023 16:23:36 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 500,
+  "orderDetails": [
+    {
+      "$oid": "642a9b18748c3da9379854fb"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 99390,
+  "createdAt": {
+    "$date": "2023-04-03T09:23:36.989Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-03T09:23:36.989Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642ad2b0706391daf8e81bf0"
+  },
+  "orderDate": {
+    "$date": "2023-04-03T13:04:30.035Z"
+  },
+  "shippedDate": "Mon Apr 10 2023 20:20:48 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 450,
+  "orderDetails": [
+    {
+      "$oid": "642ad2b0706391daf8e81bee"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 97695,
+  "createdAt": {
+    "$date": "2023-04-03T13:20:48.365Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-03T13:20:48.365Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642ad444706391daf8e81c10"
+  },
+  "orderDate": {
+    "$date": "2023-04-03T13:04:30.035Z"
+  },
+  "shippedDate": "Mon Apr 10 2023 20:27:32 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 450,
+  "orderDetails": [
+    {
+      "$oid": "642ad444706391daf8e81c0e"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 96965,
+  "createdAt": {
+    "$date": "2023-04-03T13:27:33.037Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-03T13:27:33.037Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642ad49f706391daf8e81c1a"
+  },
+  "orderDate": {
+    "$date": "2023-04-03T13:04:30.035Z"
+  },
+  "shippedDate": "Thu Apr 06 2023 20:29:03 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 550,
+  "orderDetails": [
+    {
+      "$oid": "642ad49f706391daf8e81c18"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": true,
+  "orderId": 99723,
+  "createdAt": {
+    "$date": "2023-04-03T13:29:03.584Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-03T13:44:09.073Z"
+  },
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2023-04-03T13:44:09.073Z"
+  }
+},{
+  "_id": {
+    "$oid": "642be04b4435883f6d3dbd21"
+  },
+  "orderDate": {
+    "$date": "2023-04-04T06:23:05.249Z"
+  },
+  "shippedDate": "Fri Apr 07 2023 15:31:07 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 200,
+  "orderDetails": [
+    {
+      "$oid": "642be04b4435883f6d3dbd1f"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": true,
+  "orderId": 99283,
+  "createdAt": {
+    "$date": "2023-04-04T08:31:07.976Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-05T02:00:17.161Z"
+  },
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2023-04-05T02:00:17.160Z"
+  }
+},{
+  "_id": {
+    "$oid": "642be2de4435883f6d3dbd8b"
+  },
+  "orderDate": {
+    "$date": "2023-04-04T06:23:05.249Z"
+  },
+  "shippedDate": "Fri Apr 07 2023 15:42:06 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 130,
+  "orderDetails": [
+    {
+      "$oid": "642be2de4435883f6d3dbd89"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": true,
+  "orderId": 98845,
+  "createdAt": {
+    "$date": "2023-04-04T08:42:06.841Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-04T10:06:18.542Z"
+  },
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2023-04-04T10:06:18.541Z"
+  }
+},{
+  "_id": {
+    "$oid": "642bef542183a6425524cba9"
+  },
+  "orderDate": {
+    "$date": "2023-04-04T09:33:51.166Z"
+  },
+  "shippedDate": "Fri Apr 07 2023 16:35:16 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 300,
+  "orderDetails": [
+    {
+      "$oid": "642bef542183a6425524cba5"
+    },
+    {
+      "$oid": "642bef542183a6425524cba6"
+    }
+  ],
+  "customerId": {
+    "$oid": "642aab6b9f01b28f28dc0c8d"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 94492,
+  "createdAt": {
+    "$date": "2023-04-04T09:35:16.476Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-04T09:35:16.476Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642bf25291db3f7427845f8c"
+  },
+  "orderDate": {
+    "$date": "2023-04-04T09:44:06.600Z"
+  },
+  "shippedDate": "Fri Apr 07 2023 16:48:02 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 450,
+  "orderDetails": [
+    {
+      "$oid": "642bf25291db3f7427845f8a"
+    }
+  ],
+  "customerId": {
+    "$oid": "642aab6b9f01b28f28dc0c8d"
+  },
+  "confirmation": "pending",
+  "deleted": true,
+  "orderId": 98146,
+  "createdAt": {
+    "$date": "2023-04-04T09:48:02.086Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-05T02:00:09.446Z"
+  },
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2023-04-05T02:00:09.446Z"
+  }
+},{
+  "_id": {
+    "$oid": "642bf26291db3f7427845fa2"
+  },
+  "orderDate": {
+    "$date": "2023-04-04T09:44:06.600Z"
+  },
+  "shippedDate": "Tue Apr 11 2023 16:48:18 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 250,
+  "orderDetails": [
+    {
+      "$oid": "642bf26291db3f7427845f9e"
+    },
+    {
+      "$oid": "642bf26291db3f7427845f9f"
+    }
+  ],
+  "customerId": {
+    "$oid": "642aab6b9f01b28f28dc0c8d"
+  },
+  "confirmation": "confirmation",
+  "deleted": false,
+  "orderId": 94877,
+  "createdAt": {
+    "$date": "2023-04-04T09:48:18.660Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-04T13:17:40.575Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642c3152bd2699b55382f5f0"
+  },
+  "orderDate": {
+    "$date": "2023-04-04T14:14:34.371Z"
+  },
+  "shippedDate": "Fri Apr 07 2023 21:16:50 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 180,
+  "orderDetails": [
+    {
+      "$oid": "642c3152bd2699b55382f5ee"
+    }
+  ],
+  "customerId": {
+    "$oid": "642a68a5ba2093e5b7a63aa3"
+  },
+  "confirmation": "confirmation",
+  "deleted": false,
+  "orderId": 96344,
+  "createdAt": {
+    "$date": "2023-04-04T14:16:50.564Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-04T14:21:36.159Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642d3ca9a5e0b4283b560690"
+  },
+  "orderDate": {
+    "$date": "2023-04-05T01:53:46.748Z"
+  },
+  "shippedDate": "Sat Apr 08 2023 16:17:29 GMT+0700 (Indochina Time)",
+  "cost": 133.99,
+  "orderDetails": [
+    {
+      "$oid": "642d3ca9a5e0b4283b56068e"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": true,
+  "orderId": 98211,
+  "createdAt": {
+    "$date": "2023-04-05T09:17:29.957Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-05T09:24:54.708Z"
+  },
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2023-04-05T09:24:54.707Z"
+  }
+},{
+  "_id": {
+    "$oid": "642d3d2da5e0b4283b5606ad"
+  },
+  "orderDate": {
+    "$date": "2023-04-05T01:53:46.748Z"
+  },
+  "shippedDate": "Sat Apr 08 2023 16:19:41 GMT+0700 (Indochina Time)",
+  "note": "giao hang buoi chieu",
+  "cost": 263.99,
+  "orderDetails": [
+    {
+      "$oid": "642d3d2da5e0b4283b5606a9"
+    },
+    {
+      "$oid": "642d3d2da5e0b4283b5606aa"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": true,
+  "orderId": 94507,
+  "createdAt": {
+    "$date": "2023-04-05T09:19:41.923Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-05T09:24:50.704Z"
+  },
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2023-04-05T09:24:50.703Z"
+  }
+},{
+  "_id": {
+    "$oid": "642d3e05a5e0b4283b56071c"
+  },
+  "orderDate": {
+    "$date": "2023-04-05T01:53:46.748Z"
+  },
+  "shippedDate": "Wed Apr 12 2023 16:23:17 GMT+0700 (Indochina Time)",
+  "note": "giao hang buoi chieu",
+  "cost": 131.99,
+  "orderDetails": [
+    {
+      "$oid": "642d3e05a5e0b4283b56071a"
+    }
+  ],
+  "customerId": {
+    "$oid": "642aab6b9f01b28f28dc0c8d"
+  },
+  "confirmation": "cancel",
+  "deleted": false,
+  "orderId": 96464,
+  "createdAt": {
+    "$date": "2023-04-05T09:23:17.790Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-05T09:24:45.782Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642d3ec9a5e0b4283b560752"
+  },
+  "orderDate": {
+    "$date": "2023-04-05T01:53:46.748Z"
+  },
+  "shippedDate": "Wed Apr 12 2023 16:26:33 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 1301.99,
+  "orderDetails": [
+    {
+      "$oid": "642d3ec9a5e0b4283b56074e"
+    },
+    {
+      "$oid": "642d3ec9a5e0b4283b56074f"
+    }
+  ],
+  "customerId": {
+    "$oid": "642cd4f2a5e0b4283b55f132"
+  },
+  "confirmation": "confirmation",
+  "deleted": false,
+  "orderId": 92234,
+  "createdAt": {
+    "$date": "2023-04-05T09:26:33.827Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-05T09:27:10.407Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642d3f87a5e0b4283b5607a5"
+  },
+  "orderDate": {
+    "$date": "2023-04-05T01:53:46.748Z"
+  },
+  "shippedDate": "Sat Apr 08 2023 16:29:43 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 453.99,
+  "orderDetails": [
+    {
+      "$oid": "642d3f87a5e0b4283b5607a3"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 90579,
+  "createdAt": {
+    "$date": "2023-04-05T09:29:43.314Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-05T09:29:43.314Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642d3ff2a5e0b4283b5607d3"
+  },
+  "orderDate": {
+    "$date": "2023-04-05T01:53:46.748Z"
+  },
+  "shippedDate": "Sat Apr 08 2023 16:31:30 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 453.99,
+  "orderDetails": [
+    {
+      "$oid": "642d3ff2a5e0b4283b5607d1"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 99367,
+  "createdAt": {
+    "$date": "2023-04-05T09:31:30.361Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-05T09:31:30.361Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642d40c6a5e0b4283b560802"
+  },
+  "orderDate": {
+    "$date": "2023-04-05T01:53:46.748Z"
+  },
+  "shippedDate": "Wed Apr 05 2023 16:35:02 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 1100,
+  "orderDetails": [
+    {
+      "$oid": "642d40c6a5e0b4283b5607fe"
+    },
+    {
+      "$oid": "642d40c6a5e0b4283b5607ff"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 90465,
+  "createdAt": {
+    "$date": "2023-04-05T09:35:02.412Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-05T09:35:02.412Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642d7755ff090bf61a48941d"
+  },
+  "orderDate": {
+    "$date": "2023-04-05T13:22:12.252Z"
+  },
+  "shippedDate": "Sat Apr 08 2023 20:27:49 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 443.99,
+  "orderDetails": [
+    {
+      "$oid": "642d7755ff090bf61a489417"
+    },
+    {
+      "$oid": "642d7755ff090bf61a489418"
+    },
+    {
+      "$oid": "642d7755ff090bf61a489419"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "confirmation",
+  "deleted": false,
+  "orderId": 96287,
+  "createdAt": {
+    "$date": "2023-04-05T13:27:49.677Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-05T13:37:47.063Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642d79d9d9ddb575078521b6"
+  },
+  "orderDate": {
+    "$date": "2023-04-05T13:33:47.097Z"
+  },
+  "shippedDate": "Wed Apr 05 2023 20:38:33 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 650,
+  "orderDetails": [
+    {
+      "$oid": "642d79d9d9ddb575078521b4"
+    }
+  ],
+  "customerId": {
+    "$oid": "642a6702ba2093e5b7a63a69"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 99781,
+  "createdAt": {
+    "$date": "2023-04-05T13:38:33.269Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-05T13:38:33.269Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642d801f84a803eb907ec238"
+  },
+  "orderDate": {
+    "$date": "2023-04-05T13:59:35.693Z"
+  },
+  "shippedDate": "Sat Apr 08 2023 21:05:19 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 313.99,
+  "orderDetails": [
+    {
+      "$oid": "642d801f84a803eb907ec234"
+    },
+    {
+      "$oid": "642d801f84a803eb907ec235"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 97929,
+  "createdAt": {
+    "$date": "2023-04-05T14:05:19.954Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-05T14:05:19.954Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642e7ef89e16235a164b16c6"
+  },
+  "orderDate": {
+    "$date": "2023-04-06T04:57:22.808Z"
+  },
+  "shippedDate": "Thu Apr 06 2023 15:12:40 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 1000,
+  "orderDetails": [
+    {
+      "$oid": "642e7ef89e16235a164b16c2"
+    },
+    {
+      "$oid": "642e7ef89e16235a164b16c3"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 93837,
+  "createdAt": {
+    "$date": "2023-04-06T08:12:40.307Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-06T08:12:40.307Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642eb98d8b316b313eed1c03"
+  },
+  "orderDate": {
+    "$date": "2023-04-06T09:15:36.102Z"
+  },
+  "shippedDate": "Sun Apr 09 2023 19:22:37 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 180,
+  "orderDetails": [
+    {
+      "$oid": "642eb98d8b316b313eed1c01"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "confirmation",
+  "deleted": false,
+  "orderId": 94366,
+  "createdAt": {
+    "$date": "2023-04-06T12:22:37.966Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-06T12:23:05.460Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642eb9f98b316b313eed1c3a"
+  },
+  "orderDate": {
+    "$date": "2023-04-06T09:15:36.102Z"
+  },
+  "shippedDate": "Sun Apr 09 2023 19:24:25 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 133.99,
+  "orderDetails": [
+    {
+      "$oid": "642eb9f98b316b313eed1c38"
+    }
+  ],
+  "customerId": {
+    "$oid": "642aab6b9f01b28f28dc0c8d"
+  },
+  "confirmation": "confirmation",
+  "deleted": false,
+  "orderId": 98773,
+  "createdAt": {
+    "$date": "2023-04-06T12:24:25.541Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-07T09:33:52.442Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643016ec093fa001bcdac913"
+  },
+  "orderDate": {
+    "$date": "2023-04-07T12:54:18.783Z"
+  },
+  "shippedDate": "Fri Apr 14 2023 20:13:16 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 180,
+  "orderDetails": [
+    {
+      "$oid": "643016ec093fa001bcdac911"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 90224,
+  "createdAt": {
+    "$date": "2023-04-07T13:13:16.936Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-07T13:13:16.936Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64301aa3093fa001bcdacb43"
+  },
+  "orderDate": {
+    "$date": "2023-04-07T12:54:18.783Z"
+  },
+  "shippedDate": "Fri Apr 14 2023 20:29:07 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 720,
+  "orderDetails": [
+    {
+      "$oid": "64301aa3093fa001bcdacb3b"
+    },
+    {
+      "$oid": "64301aa3093fa001bcdacb3c"
+    },
+    {
+      "$oid": "64301aa3093fa001bcdacb3d"
+    },
+    {
+      "$oid": "64301aa3093fa001bcdacb3e"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 97339,
+  "createdAt": {
+    "$date": "2023-04-07T13:29:07.787Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-07T13:29:07.787Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64324e08bd35685fc9c25563"
+  },
+  "orderDate": {
+    "$date": "2023-04-09T04:34:26.089Z"
+  },
+  "shippedDate": "Sun Apr 16 2023 12:32:56 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 1481.99,
+  "orderDetails": [
+    {
+      "$oid": "64324e08bd35685fc9c2555f"
+    },
+    {
+      "$oid": "64324e08bd35685fc9c25560"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 97509,
+  "createdAt": {
+    "$date": "2023-04-09T05:32:56.573Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T05:32:56.573Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64324f09bd35685fc9c255f3"
+  },
+  "orderDate": {
+    "$date": "2023-04-09T04:34:26.089Z"
+  },
+  "shippedDate": "Wed Apr 12 2023 12:37:13 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 452.99,
+  "orderDetails": [
+    {
+      "$oid": "64324f09bd35685fc9c255f1"
+    }
+  ],
+  "customerId": {
+    "$oid": "642aab6b9f01b28f28dc0c8d"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 98204,
+  "createdAt": {
+    "$date": "2023-04-09T05:37:13.114Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T05:37:13.114Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64324ffbbd35685fc9c2566e"
+  },
+  "orderDate": {
+    "$date": "2023-04-09T04:34:26.089Z"
+  },
+  "shippedDate": "Wed Apr 12 2023 12:41:15 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 182.99,
+  "orderDetails": [
+    {
+      "$oid": "64324ffbbd35685fc9c2566c"
+    }
+  ],
+  "customerId": {
+    "$oid": "642a6a07535da77dd1d424dc"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 98461,
+  "createdAt": {
+    "$date": "2023-04-09T05:41:15.405Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T05:41:15.405Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64326f84bd35685fc9c2577b"
+  },
+  "orderDate": {
+    "$date": "2023-04-09T04:34:26.089Z"
+  },
+  "shippedDate": "Wed Apr 12 2023 14:55:48 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 1092.99,
+  "orderDetails": [
+    {
+      "$oid": "64326f84bd35685fc9c25775"
+    },
+    {
+      "$oid": "64326f84bd35685fc9c25776"
+    },
+    {
+      "$oid": "64326f84bd35685fc9c25777"
+    }
+  ],
+  "customerId": {
+    "$oid": "642aab6b9f01b28f28dc0c8d"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 96717,
+  "createdAt": {
+    "$date": "2023-04-09T07:55:48.504Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T07:55:48.504Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643274b3bd35685fc9c25898"
+  },
+  "orderDate": {
+    "$date": "2023-04-09T04:34:26.089Z"
+  },
+  "shippedDate": "Sun Apr 16 2023 15:17:55 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 461.99,
+  "orderDetails": [
+    {
+      "$oid": "643274b3bd35685fc9c25894"
+    },
+    {
+      "$oid": "643274b3bd35685fc9c25895"
+    }
+  ],
+  "customerId": {
+    "$oid": "6426682970e359037ddcb77c"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 90918,
+  "createdAt": {
+    "$date": "2023-04-09T08:17:55.912Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T08:17:55.912Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64327887bd35685fc9c25925"
+  },
+  "orderDate": {
+    "$date": "2023-04-09T04:34:26.089Z"
+  },
+  "shippedDate": "Wed Apr 12 2023 15:34:15 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 282.99,
+  "orderDetails": [
+    {
+      "$oid": "64327887bd35685fc9c25923"
+    }
+  ],
+  "customerId": {
+    "$oid": "6426682970e359037ddcb77c"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 91309,
+  "createdAt": {
+    "$date": "2023-04-09T08:34:15.041Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T08:34:15.041Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64327a46bd35685fc9c25971"
+  },
+  "orderDate": {
+    "$date": "2023-04-09T04:34:26.089Z"
+  },
+  "shippedDate": "Sun Apr 16 2023 15:41:42 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 561.99,
+  "orderDetails": [
+    {
+      "$oid": "64327a46bd35685fc9c2596f"
+    }
+  ],
+  "customerId": {
+    "$oid": "6426682970e359037ddcb77c"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 99542,
+  "createdAt": {
+    "$date": "2023-04-09T08:41:42.414Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T08:41:42.414Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64329a54fa0e41b815c484ab"
+  },
+  "orderDate": {
+    "$date": "2023-04-09T10:40:49.404Z"
+  },
+  "shippedDate": "Wed Apr 12 2023 17:58:28 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 130,
+  "orderDetails": [
+    {
+      "$oid": "64329a54fa0e41b815c484a9"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 91416,
+  "createdAt": {
+    "$date": "2023-04-09T10:58:28.380Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T10:58:28.380Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64329b24fa0e41b815c48508"
+  },
+  "orderDate": {
+    "$date": "2023-04-09T10:40:49.404Z"
+  },
+  "shippedDate": "Sun Apr 16 2023 18:01:56 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 360,
+  "orderDetails": [
+    {
+      "$oid": "64329b24fa0e41b815c48506"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 94738,
+  "createdAt": {
+    "$date": "2023-04-09T11:01:56.529Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T11:01:56.529Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6432a3706f89177e02c0ff9d"
+  },
+  "orderDate": {
+    "$date": "2023-04-09T11:37:02.805Z"
+  },
+  "shippedDate": "Wed Apr 12 2023 18:37:19 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 520,
+  "orderDetails": [
+    {
+      "$oid": "6432a36f6f89177e02c0ff9b"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 98479,
+  "createdAt": {
+    "$date": "2023-04-09T11:37:20.017Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T11:37:20.017Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6432a404669f3e5efa656300"
+  },
+  "orderDate": {
+    "$date": "2023-04-09T11:38:04.301Z"
+  },
+  "shippedDate": "Wed Apr 12 2023 18:39:48 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 180,
+  "orderDetails": [
+    {
+      "$oid": "6432a404669f3e5efa6562fe"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 93298,
+  "createdAt": {
+    "$date": "2023-04-09T11:39:48.824Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T11:39:48.824Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6432a49d669f3e5efa65630b"
+  },
+  "orderDate": {
+    "$date": "2023-04-09T11:38:04.301Z"
+  },
+  "shippedDate": "Sun Apr 16 2023 18:42:21 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 130,
+  "orderDetails": [
+    {
+      "$oid": "6432a49d669f3e5efa656309"
+    }
+  ],
+  "customerId": {
+    "$oid": "6432a49d669f3e5efa656306"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 90026,
+  "createdAt": {
+    "$date": "2023-04-09T11:42:21.746Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T11:42:21.746Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6432a931669f3e5efa65639c"
+  },
+  "orderDate": {
+    "$date": "2023-04-09T11:38:04.301Z"
+  },
+  "shippedDate": "Sun Apr 09 2023 19:01:53 GMT+0700 (Indochina Time)",
+  "note": "giao hang trong tuan",
+  "cost": 180,
+  "orderDetails": [
+    {
+      "$oid": "6432a931669f3e5efa65639a"
+    }
+  ],
+  "customerId": {
+    "$oid": "642aab6b9f01b28f28dc0c8d"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 98187,
+  "createdAt": {
+    "$date": "2023-04-09T12:01:53.377Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T12:01:53.377Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6432adbc669f3e5efa6564b5"
+  },
+  "orderDate": {
+    "$date": "2023-04-09T11:38:04.301Z"
+  },
+  "shippedDate": "Sun Apr 16 2023 19:21:16 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 181.99,
+  "orderDetails": [
+    {
+      "$oid": "6432adbc669f3e5efa6564b3"
+    }
+  ],
+  "customerId": {
+    "$oid": "6432adbc669f3e5efa6564b0"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 95437,
+  "createdAt": {
+    "$date": "2023-04-09T12:21:16.785Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T12:21:16.785Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6432af85669f3e5efa65651e"
+  },
+  "orderDate": {
+    "$date": "2023-04-09T11:38:04.301Z"
+  },
+  "shippedDate": "Wed Apr 12 2023 19:28:53 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 650,
+  "orderDetails": [
+    {
+      "$oid": "6432af85669f3e5efa65651c"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 99179,
+  "createdAt": {
+    "$date": "2023-04-09T12:28:53.208Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T12:28:53.208Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6432b33a8e4688d73158b17d"
+  },
+  "orderDate": {
+    "$date": "2023-04-09T12:44:21.841Z"
+  },
+  "shippedDate": "Wed Apr 12 2023 19:44:42 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 180,
+  "orderDetails": [
+    {
+      "$oid": "6432b33a8e4688d73158b17b"
+    }
+  ],
+  "customerId": {
+    "$oid": "6432b3358e4688d73158b176"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 98983,
+  "createdAt": {
+    "$date": "2023-04-09T12:44:42.157Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T12:44:42.157Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6432b547671429301b9329f3"
+  },
+  "orderDate": {
+    "$date": "2023-04-09T12:53:08.077Z"
+  },
+  "shippedDate": "Sun Apr 16 2023 19:53:27 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 651.99,
+  "orderDetails": [
+    {
+      "$oid": "6432b547671429301b9329f1"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 99076,
+  "createdAt": {
+    "$date": "2023-04-09T12:53:27.665Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T12:53:27.665Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6432b5c842dbd48d4d223454"
+  },
+  "orderDate": {
+    "$date": "2023-04-09T12:53:37.898Z"
+  },
+  "shippedDate": "Sun Apr 16 2023 19:55:36 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 451.99,
+  "orderDetails": [
+    {
+      "$oid": "6432b5c842dbd48d4d223452"
+    }
+  ],
+  "customerId": {
+    "$oid": "6432b5c842dbd48d4d22344e"
+  },
+  "confirmation": "pending",
+  "deleted": false,
+  "orderId": 98960,
+  "createdAt": {
+    "$date": "2023-04-09T12:55:36.115Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T12:55:36.115Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6432b7318cb9c2d5e552eb79"
+  },
+  "orderDate": {
+    "$date": "2023-04-09T12:59:57.569Z"
+  },
+  "shippedDate": "Wed Apr 12 2023 20:01:37 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 450,
+  "orderDetails": [
+    {
+      "$oid": "6432b7318cb9c2d5e552eb77"
+    }
+  ],
+  "customerId": {
+    "$oid": "6432b7318cb9c2d5e552eb73"
+  },
+  "confirmation": "confirmation",
+  "deleted": false,
+  "orderId": 92265,
+  "createdAt": {
+    "$date": "2023-04-09T13:01:37.935Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T15:40:17.180Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6432b7cd1f365131727c8b5e"
+  },
+  "orderDate": {
+    "$date": "2023-04-09T13:03:13.024Z"
+  },
+  "shippedDate": "Wed Apr 12 2023 20:04:13 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 180,
+  "orderDetails": [
+    {
+      "$oid": "6432b7cd1f365131727c8b5c"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "confirmation",
+  "deleted": false,
+  "orderId": 95606,
+  "createdAt": {
+    "$date": "2023-04-09T13:04:13.286Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T13:22:04.999Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6432b83a1f365131727c8b98"
+  },
+  "orderDate": {
+    "$date": "2023-04-09T13:03:13.024Z"
+  },
+  "shippedDate": "Sun Apr 09 2023 20:06:02 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 180,
+  "orderDetails": [
+    {
+      "$oid": "6432b83a1f365131727c8b96"
+    }
+  ],
+  "customerId": {
+    "$oid": "6432b83a1f365131727c8b92"
+  },
+  "confirmation": "pending",
+  "deleted": true,
+  "orderId": 99644,
+  "createdAt": {
+    "$date": "2023-04-09T13:06:02.888Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T13:20:35.206Z"
+  },
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2023-04-09T13:20:35.205Z"
+  }
+},{
+  "_id": {
+    "$oid": "6432bcff65ee44ef5fa3c3ed"
+  },
+  "orderDate": {
+    "$date": "2023-04-09T13:24:21.233Z"
+  },
+  "shippedDate": "Sun Apr 16 2023 20:26:23 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 451.99,
+  "orderDetails": [
+    {
+      "$oid": "6432bcff65ee44ef5fa3c3eb"
+    }
+  ],
+  "customerId": {
+    "$oid": "6432bcff65ee44ef5fa3c3e7"
+  },
+  "confirmation": "confirmation",
+  "deleted": false,
+  "orderId": 96220,
+  "createdAt": {
+    "$date": "2023-04-09T13:26:23.482Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T15:40:01.123Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6432bdbadbae37d358a48da7"
+  },
+  "orderDate": {
+    "$date": "2023-04-09T13:28:13.843Z"
+  },
+  "shippedDate": "Wed Apr 12 2023 20:29:30 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 182.99,
+  "orderDetails": [
+    {
+      "$oid": "6432bdbadbae37d358a48da5"
+    }
+  ],
+  "customerId": {
+    "$oid": "6432bdbadbae37d358a48da1"
+  },
+  "confirmation": "confirmation",
+  "deleted": false,
+  "orderId": 90861,
+  "createdAt": {
+    "$date": "2023-04-09T13:29:30.479Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T15:39:51.829Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6432c3cf5011a5b3c4d8071a"
+  },
+  "orderDate": {
+    "$date": "2023-04-09T13:35:47.569Z"
+  },
+  "shippedDate": "Sun Apr 16 2023 20:55:27 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 900,
+  "orderDetails": [
+    {
+      "$oid": "6432c3cf5011a5b3c4d80716"
+    },
+    {
+      "$oid": "6432c3cf5011a5b3c4d80717"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "confirmation",
+  "deleted": false,
+  "orderId": 97979,
+  "createdAt": {
+    "$date": "2023-04-09T13:55:27.879Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-09T13:56:16.243Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6433be774404d79dfb96199d"
+  },
+  "orderDate": {
+    "$date": "2023-04-10T05:33:07.177Z"
+  },
+  "shippedDate": "Tue Apr 11 2023 14:44:55 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 183.99,
+  "orderDetails": [
+    {
+      "$oid": "6433be774404d79dfb96199b"
+    }
+  ],
+  "customerId": {
+    "$oid": "642a6a07535da77dd1d424dc"
+  },
+  "confirmation": "confirmation",
+  "deleted": false,
+  "orderId": 99827,
+  "createdAt": {
+    "$date": "2023-04-10T07:44:55.921Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-10T07:45:02.576Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6433c92b4404d79dfb9620dc"
+  },
+  "orderDate": {
+    "$date": "2023-04-10T05:33:07.177Z"
+  },
+  "shippedDate": "Tue Apr 11 2023 15:30:35 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 180,
+  "orderDetails": [
+    {
+      "$oid": "6433c92b4404d79dfb9620da"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "confirmation",
+  "deleted": false,
+  "orderId": 91383,
+  "createdAt": {
+    "$date": "2023-04-10T08:30:35.373Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T15:39:45.570Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6434c1793bedb8fd99a0d938"
+  },
+  "orderDate": {
+    "$date": "2023-04-11T01:55:48.363Z"
+  },
+  "shippedDate": "Tue Apr 11 2023 09:10:01 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 460,
+  "orderDetails": [
+    {
+      "$oid": "6434c1793bedb8fd99a0d934"
+    },
+    {
+      "$oid": "6434c1793bedb8fd99a0d935"
+    }
+  ],
+  "customerId": {
+    "$oid": "642aab6b9f01b28f28dc0c8d"
+  },
+  "confirmation": "confirmation",
+  "deleted": false,
+  "orderId": 94821,
+  "createdAt": {
+    "$date": "2023-04-11T02:10:01.763Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T02:10:07.913Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6434c814997e6083556c0d93"
+  },
+  "orderDate": {
+    "$date": "2023-04-11T02:37:20.691Z"
+  },
+  "shippedDate": "Wed Apr 12 2023 09:38:12 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 360,
+  "orderDetails": [
+    {
+      "$oid": "6434c814997e6083556c0d8f"
+    },
+    {
+      "$oid": "6434c814997e6083556c0d90"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "confirmation",
+  "deleted": false,
+  "orderId": 95757,
+  "createdAt": {
+    "$date": "2023-04-11T02:38:13.013Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T15:34:16.490Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6434c8e0997e6083556c0e99"
+  },
+  "orderDate": {
+    "$date": "2023-04-11T02:37:20.691Z"
+  },
+  "shippedDate": "Tue Apr 11 2023 09:41:36 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 180,
+  "orderDetails": [
+    {
+      "$oid": "6434c8e0997e6083556c0e97"
+    }
+  ],
+  "customerId": null,
+  "confirmation": "cancel",
+  "deleted": false,
+  "orderId": 96476,
+  "createdAt": {
+    "$date": "2023-04-11T02:41:36.600Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T15:31:57.816Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6434cfa77a27ef9e7bdeff31"
+  },
+  "orderDate": {
+    "$date": "2023-04-11T03:07:54.350Z"
+  },
+  "shippedDate": "Tue Apr 11 2023 10:10:31 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 2090,
+  "orderDetails": [
+    {
+      "$oid": "6434cfa77a27ef9e7bdeff29"
+    },
+    {
+      "$oid": "6434cfa77a27ef9e7bdeff2a"
+    },
+    {
+      "$oid": "6434cfa77a27ef9e7bdeff2b"
+    },
+    {
+      "$oid": "6434cfa77a27ef9e7bdeff2c"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "confirmation",
+  "deleted": false,
+  "orderId": 96369,
+  "createdAt": {
+    "$date": "2023-04-11T03:10:31.322Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T15:31:50.491Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6434d31d05f21501b1d13be2"
+  },
+  "orderDate": {
+    "$date": "2023-04-11T03:25:10.503Z"
+  },
+  "shippedDate": "Wed Apr 12 2023 10:25:17 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 230,
+  "orderDetails": [
+    {
+      "$oid": "6434d31d05f21501b1d13be0"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "confirmation",
+  "deleted": false,
+  "orderId": 95940,
+  "createdAt": {
+    "$date": "2023-04-11T03:25:17.155Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T15:31:42.119Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6434d493ce43c821258105b8"
+  },
+  "orderDate": {
+    "$date": "2023-04-11T03:31:25.069Z"
+  },
+  "shippedDate": "Wed Apr 12 2023 10:31:31 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 230,
+  "orderDetails": [
+    {
+      "$oid": "6434d493ce43c821258105b6"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "confirmation",
+  "deleted": false,
+  "orderId": 92258,
+  "createdAt": {
+    "$date": "2023-04-11T03:31:31.547Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T15:29:58.558Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6434d5d936284e769d8c36f6"
+  },
+  "orderDate": {
+    "$date": "2023-04-11T03:34:43.604Z"
+  },
+  "shippedDate": "Wed Apr 12 2023 10:36:57 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 4500,
+  "orderDetails": [
+    {
+      "$oid": "6434d5d936284e769d8c36f4"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "confirmation",
+  "deleted": false,
+  "orderId": 97611,
+  "createdAt": {
+    "$date": "2023-04-11T03:36:57.643Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T15:26:00.103Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6434d6d96a1a119c55f21c3a"
+  },
+  "orderDate": {
+    "$date": "2023-04-11T03:39:31.969Z"
+  },
+  "shippedDate": "Wed Apr 12 2023 10:41:13 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 1130,
+  "orderDetails": [
+    {
+      "$oid": "6434d6d96a1a119c55f21c36"
+    },
+    {
+      "$oid": "6434d6d96a1a119c55f21c37"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "confirmation",
+  "deleted": false,
+  "orderId": 91955,
+  "createdAt": {
+    "$date": "2023-04-11T03:41:13.705Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T15:24:08.115Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6434d80337257ff150d23c8a"
+  },
+  "orderDate": {
+    "$date": "2023-04-11T03:42:53.773Z"
+  },
+  "shippedDate": "Wed Apr 12 2023 10:46:11 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 640,
+  "orderDetails": [
+    {
+      "$oid": "6434d80337257ff150d23c86"
+    },
+    {
+      "$oid": "6434d80337257ff150d23c87"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "confirmation",
+  "deleted": false,
+  "orderId": 95319,
+  "createdAt": {
+    "$date": "2023-04-11T03:46:11.942Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T15:18:19.644Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6434d84a37257ff150d23d15"
+  },
+  "orderDate": {
+    "$date": "2023-04-11T03:42:53.773Z"
+  },
+  "shippedDate": "Wed Apr 12 2023 10:47:22 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 450,
+  "orderDetails": [
+    {
+      "$oid": "6434d84a37257ff150d23d13"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "confirmation",
+  "deleted": false,
+  "orderId": 96475,
+  "createdAt": {
+    "$date": "2023-04-11T03:47:22.265Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T15:17:04.077Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6434d97337257ff150d23e27"
+  },
+  "orderDate": {
+    "$date": "2023-04-11T03:42:53.773Z"
+  },
+  "shippedDate": "Wed Apr 12 2023 10:52:19 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 450,
+  "orderDetails": [
+    {
+      "$oid": "6434d97337257ff150d23e25"
+    }
+  ],
+  "customerId": {
+    "$oid": "64258543ed4fae669149db44"
+  },
+  "confirmation": "confirmation",
+  "deleted": false,
+  "orderId": 92417,
+  "createdAt": {
+    "$date": "2023-04-11T03:52:19.525Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T13:24:58.843Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6434e18037257ff150d23f8d"
+  },
+  "orderDate": {
+    "$date": "2023-04-11T03:42:53.773Z"
+  },
+  "shippedDate": "Tue Apr 18 2023 11:26:40 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 3531.99,
+  "orderDetails": [
+    {
+      "$oid": "6434e18037257ff150d23f89"
+    },
+    {
+      "$oid": "6434e18037257ff150d23f8a"
+    }
+  ],
+  "customerId": {
+    "$oid": "642aab6b9f01b28f28dc0c8d"
+  },
+  "confirmation": "confirmation",
+  "deleted": false,
+  "orderId": 93820,
+  "createdAt": {
+    "$date": "2023-04-11T04:26:40.951Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T14:10:04.672Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64356efebd5391da1e66e9e1"
+  },
+  "orderDate": {
+    "$date": "2023-04-11T14:08:07.492Z"
+  },
+  "shippedDate": "Tue Apr 11 2023 21:30:22 GMT+0700 (Indochina Time)",
+  "note": "",
+  "cost": 550,
+  "orderDetails": [
+    {
+      "$oid": "64356efebd5391da1e66e9df"
+    }
+  ],
+  "customerId": {
+    "$oid": "642aab6b9f01b28f28dc0c8d"
+  },
+  "confirmation": "confirmation",
+  "deleted": false,
+  "orderId": 90277,
+  "createdAt": {
+    "$date": "2023-04-11T14:30:22.531Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T14:30:37.626Z"
+  },
+  "__v": 0
+}]
