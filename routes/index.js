@@ -8,7 +8,7 @@ const statusRouter = require('./status');
 const shippingRouter = require('./shipping');``
 // const orderRouter = require('./order');
 const customerRouter = require('./customerRouter');
-// const orderDetailRouter = require('./orderDetailRouter');
+const orderDetailRouter = require('./orderDetailRouter');
 const orderRouter = require('./orderRouter');
 const uploadRouter = require('./upload');
 const todoRouter = require('./todo');
@@ -25,10 +25,10 @@ function router(app) {
     app.use('/api/orders', orderRouter)
     app.use('/api/product_type', productTypeRouter)
     app.use('/api/customers', customerRouter)
-
+    app.use('/api/order_detail', orderDetailRouter)
     app.use('/api/upload', uploadRouter)
     app.use('/api/todos', todoRouter)
 
 }
-// app.use('/api/order_detail', orderDetailRouter)
+
 module.exports = router
