@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router()
-const orderDetailController = require('../app/controllers/OrderDetailController')
+const orderDetailController = require('../app/controllers/orderDetailController')
 
 // [GET] /
 router.get('/', orderDetailController.getAllOrderDetail)
